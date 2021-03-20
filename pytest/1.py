@@ -21,5 +21,6 @@ pytest 运行：
             $ env2/bin/pip install -r requirements.txt
 
 数据驱动：
-
+    测试数据的数据驱动
+    测试步骤的数据驱动
 '''
