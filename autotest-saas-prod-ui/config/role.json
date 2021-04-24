@@ -1,0 +1,8 @@
+{
+    "autorityToLogin": {
+        "area": "成都区域",
+        "branch": "爱康国宾成都茶店子分院",
+        "roleExamine": "内科医生",
+        "roleCheckout": "检验科医生"
+    }
+}

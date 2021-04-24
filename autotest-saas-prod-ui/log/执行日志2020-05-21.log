@@ -1,0 +1,478 @@
+2020-05-21 09:34:16,014 - root - INFO - 未找到"//span[contains(text(),'杭州文晖分院' )]"点击事件的定位元素
+2020-05-21 09:34:28,278 - root - INFO - 用例开始时间:2020-05-21 09:34:28
+2020-05-21 09:43:18,715 - root - INFO - 用例开始时间:2020-05-21 09:43:18
+2020-05-21 09:45:29,852 - root - INFO - 用例开始时间:2020-05-21 09:45:29
+2020-05-21 09:49:21,063 - root - INFO - 用例开始时间:2020-05-21 09:49:21
+2020-05-21 09:49:27,284 - root - INFO - 第1步：点击登记-----pass
+2020-05-21 09:49:33,507 - root - INFO - 第2步：点击展开客户类型-----pass
+2020-05-21 09:49:39,717 - root - INFO - 第3步：选择散客登记-----pass
+2020-05-21 09:49:44,047 - root - INFO - 第4步：输入姓名-----pass
+2020-05-21 09:49:50,263 - root - INFO - 第5步：点击展开证件类型-----pass
+2020-05-21 09:49:56,486 - root - INFO - 第6步：选择护照-----pass
+2020-05-21 09:50:00,846 - root - INFO - 第7步：输入证件号-----pass
+2020-05-21 09:50:07,048 - root - INFO - 第8步：点击展开性别-----pass
+2020-05-21 09:50:13,372 - root - INFO - 第9步：点击性别-----pass
+2020-05-21 09:50:23,571 - root - INFO - 未找到"//input[@placeholder='格式如:2000-01-01']"定位的元素文本信息
+2020-05-21 09:50:23,665 - root - INFO - 第10步：输入出生日期-----exception
+2020-05-21 09:50:35,729 - root - INFO - 用例结束时间:2020-05-21 09:50:35
+2020-05-21 09:50:35,729 - root - INFO - 用例通过条数9
+2020-05-21 09:50:35,730 - root - INFO - 用例失败条数：0
+2020-05-21 09:50:35,733 - root - INFO - 用例执行完成请查看测试报告：E:\file\python code\python\autotest-saas-prod-ui\report\体检云--杭州文晖分院测试报告.html
+2020-05-21 09:55:52,982 - root - INFO - 用例开始时间:2020-05-21 09:55:52
+2020-05-21 09:55:59,184 - root - INFO - 第1步：点击登记-----pass
+2020-05-21 09:56:05,396 - root - INFO - 第2步：点击展开客户类型-----pass
+2020-05-21 09:56:11,603 - root - INFO - 第3步：选择散客登记-----pass
+2020-05-21 09:56:15,900 - root - INFO - 第4步：输入姓名-----pass
+2020-05-21 09:56:22,095 - root - INFO - 第5步：点击展开证件类型-----pass
+2020-05-21 09:56:28,302 - root - INFO - 第6步：选择护照-----pass
+2020-05-21 09:56:32,689 - root - INFO - 第7步：输入证件号-----pass
+2020-05-21 09:56:38,917 - root - INFO - 第8步：点击展开性别-----pass
+2020-05-21 09:56:45,236 - root - INFO - 第9步：点击性别-----pass
+2020-05-21 09:56:49,497 - root - INFO - 第10步：输入出生日期-----pass
+2020-05-21 09:56:55,716 - root - INFO - 第11步：点击客户信息关闭时间弹窗-----pass
+2020-05-21 09:57:00,084 - root - INFO - 第12步：输入手机号码-----pass
+2020-05-21 09:57:04,333 - root - INFO - 第13步：点击基本套餐-----pass
+2020-05-21 09:57:14,502 - root - INFO - 第14步：点击回车键查询基本套餐-----pass
+2020-05-21 09:57:18,696 - root - INFO - 第15步：查询定位中输入内科-----pass
+2020-05-21 09:57:28,834 - root - INFO - 第16步：点击回车查询内科-----pass
+2020-05-21 09:57:35,051 - root - INFO - 第17步：双击选择内科-----pass
+2020-05-21 09:57:39,258 - root - INFO - 第18步：查询定位中输入肝功一项-----pass
+2020-05-21 09:57:49,380 - root - INFO - 第19步：点击回车查询肝功一项-----pass
+2020-05-21 09:57:55,581 - root - INFO - 第20步：双击选择肝功一项-----pass
+2020-05-21 09:57:59,773 - root - INFO - 第21步：滑动鼠标页面置顶-----pass
+2020-05-21 09:58:15,014 - root - INFO - 第22步：点击保存-----pass
+2020-05-21 09:58:21,244 - root - INFO - 第23步：点击确定-----pass
+2020-05-21 09:58:27,529 - root - INFO - 第24步：关闭提示-----pass
+2020-05-21 09:58:33,697 - root - INFO - 第25步：移动鼠标到收费管理-----pass
+2020-05-21 09:58:39,874 - root - INFO - 第26步：点击收费-----pass
+2020-05-21 09:58:44,143 - root - INFO - 第27步：检索栏输入体检号-----pass
+2020-05-21 09:58:50,342 - root - INFO - 第28步：点击搜索-----pass
+2020-05-21 09:58:56,584 - root - INFO - 第29步：双击打开收费页面-----pass
+2020-05-21 09:59:02,789 - root - INFO - 第30步：点击收费-----pass
+2020-05-21 09:59:09,030 - root - INFO - 第31步：点击选择支付方式打开下拉框-----pass
+2020-05-21 09:59:15,226 - root - INFO - 第32步：点击选择现金-----pass
+2020-05-21 09:59:27,448 - root - INFO - 第33步：点击确认-----pass
+2020-05-21 09:59:33,676 - root - INFO - 第34步：点击关闭提示-----pass
+2020-05-21 09:59:39,845 - root - INFO - 第35步：移动鼠标切换账号-----pass
+2020-05-21 09:59:46,077 - root - INFO - 第36步：点击更换角色-----pass
+2020-05-21 10:11:44,767 - root - INFO - 用例开始时间:2020-05-21 10:11:44
+2020-05-21 10:11:50,955 - root - INFO - 第1步：点击登记-----pass
+2020-05-21 10:11:57,182 - root - INFO - 第2步：点击展开客户类型-----pass
+2020-05-21 10:12:03,395 - root - INFO - 第3步：选择散客登记-----pass
+2020-05-21 10:12:07,714 - root - INFO - 第4步：输入姓名-----pass
+2020-05-21 10:12:13,952 - root - INFO - 第5步：点击展开证件类型-----fail
+2020-05-21 10:12:16,125 - root - INFO - 用例结束时间:2020-05-21 10:12:16
+2020-05-21 10:12:16,125 - root - INFO - 用例通过条数4
+2020-05-21 10:12:16,126 - root - INFO - 用例失败条数：1
+2020-05-21 10:12:16,128 - root - INFO - 用例执行完成请查看测试报告：E:\file\python code\python\autotest-saas-prod-ui\report\体检云--杭州文晖分院测试报告.html
+2020-05-21 10:43:41,750 - root - INFO - 用例开始时间:2020-05-21 10:43:41
+2020-05-21 10:43:49,761 - root - INFO - 未找到"//span[text()='登记']"点击事件的定位元素
+2020-05-21 10:43:57,807 - root - INFO - 未找到"//div[@class='title']//h3"定位的元素文本信息
+2020-05-21 10:43:57,896 - root - INFO - 第1步：点击登记-----exception
+2020-05-21 10:44:09,964 - root - INFO - 用例结束时间:2020-05-21 10:44:09
+2020-05-21 10:45:24,397 - root - INFO - 用例开始时间:2020-05-21 10:45:24
+2020-05-21 10:45:30,667 - root - INFO - 第1步：点击登记-----pass
+2020-05-21 10:45:42,794 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='散客']"定位的元素文本信息
+2020-05-21 10:45:42,875 - root - INFO - 第2步：点击展开客户类型-----exception
+2020-05-21 10:45:54,946 - root - INFO - 用例结束时间:2020-05-21 10:45:54
+2020-05-21 10:45:55,200 - root - INFO - 用例通过条数1
+2020-05-21 10:45:55,201 - root - INFO - 用例失败条数：0
+2020-05-21 10:45:55,204 - root - INFO - 用例执行完成请查看测试报告：E:\file\python code\python\autotest-saas-prod-ui\report\体检云--杭州文晖分院测试报告.html
+2020-05-21 13:41:12,171 - root - INFO - 用例开始时间:2020-05-21 13:41:12
+2020-05-21 14:01:49,884 - root - INFO - 打开浏览器
+2020-05-21 14:01:52,007 - root - INFO - 输入用户名
+2020-05-21 14:01:54,077 - root - INFO - 输入密码
+2020-05-21 14:01:58,150 - root - INFO - 点击登录
+2020-05-21 14:02:06,322 - root - INFO - 选择浙江区域
+2020-05-21 14:02:14,445 - root - INFO - 选择杭州文晖分院
+2020-05-21 14:02:22,559 - root - INFO - 选择分院IT角色
+2020-05-21 14:02:32,637 - root - INFO - 点击进入
+2020-05-21 14:02:32,678 - root - INFO - 用例开始时间:2020-05-21 14:02:32
+2020-05-21 14:07:25,730 - root - INFO - 打开浏览器
+2020-05-21 14:07:27,840 - root - INFO - 输入用户名
+2020-05-21 14:07:29,918 - root - INFO - 输入密码
+2020-05-21 14:07:33,983 - root - INFO - 点击登录
+2020-05-21 14:07:42,140 - root - INFO - 选择浙江区域
+2020-05-21 14:07:50,261 - root - INFO - 选择杭州文晖分院
+2020-05-21 14:07:58,411 - root - INFO - 选择分院IT角色
+2020-05-21 14:08:08,488 - root - INFO - 点击进入
+2020-05-21 14:08:08,524 - root - INFO - 用例开始时间:2020-05-21 14:08:08
+2020-05-21 14:09:40,454 - root - INFO - 打开浏览器
+2020-05-21 14:09:42,578 - root - INFO - 输入用户名
+2020-05-21 14:09:44,660 - root - INFO - 输入密码
+2020-05-21 14:09:48,736 - root - INFO - 点击登录
+2020-05-21 14:09:56,893 - root - INFO - 选择浙江区域
+2020-05-21 14:10:04,993 - root - INFO - 选择杭州文晖分院
+2020-05-21 14:10:13,126 - root - INFO - 选择分院IT角色
+2020-05-21 14:10:23,187 - root - INFO - 点击进入
+2020-05-21 14:10:23,226 - root - INFO - 用例开始时间:2020-05-21 14:10:23
+2020-05-21 14:11:05,757 - root - INFO - 打开浏览器
+2020-05-21 14:11:07,867 - root - INFO - 输入用户名
+2020-05-21 14:11:09,937 - root - INFO - 输入密码
+2020-05-21 14:11:14,011 - root - INFO - 点击登录
+2020-05-21 14:11:22,191 - root - INFO - 选择浙江区域
+2020-05-21 14:11:30,321 - root - INFO - 选择杭州文晖分院
+2020-05-21 14:11:38,439 - root - INFO - 选择分院IT角色
+2020-05-21 14:11:48,505 - root - INFO - 点击进入
+2020-05-21 14:11:48,546 - root - INFO - 用例开始时间:2020-05-21 14:11:48
+2020-05-21 14:11:54,802 - root - INFO - 第1步：点击登记-----pass
+2020-05-21 14:12:01,035 - root - INFO - 第2步：点击展开客户类型-----pass
+2020-05-21 14:16:43,957 - root - INFO - 打开浏览器
+2020-05-21 14:16:46,067 - root - INFO - 输入用户名
+2020-05-21 14:16:48,147 - root - INFO - 输入密码
+2020-05-21 14:16:52,221 - root - INFO - 点击登录
+2020-05-21 14:17:00,371 - root - INFO - 选择北京区域
+2020-05-21 14:17:14,441 - root - INFO - 未找到"//span[contains(text(),'北京公主坟分院' )]"点击事件的定位元素
+2020-05-21 14:17:14,442 - root - INFO - 选择北京公主坟分院
+2020-05-21 14:17:14,479 - root - INFO - 未找到"//input[@placeholder='请选择角色']"点击事件的定位元素
+2020-05-21 14:17:14,500 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-21 14:17:14,501 - root - INFO - 选择分院IT角色
+2020-05-21 14:18:42,010 - root - INFO - 打开浏览器
+2020-05-21 14:18:44,123 - root - INFO - 输入用户名
+2020-05-21 14:18:46,200 - root - INFO - 输入密码
+2020-05-21 14:18:50,263 - root - INFO - 点击登录
+2020-05-21 14:18:58,443 - root - INFO - 选择浙江区域
+2020-05-21 14:19:06,554 - root - INFO - 选择杭州文晖分院
+2020-05-21 14:19:14,690 - root - INFO - 选择分院IT角色
+2020-05-21 14:19:24,771 - root - INFO - 点击进入
+2020-05-21 14:19:24,811 - root - INFO - 用例开始时间:2020-05-21 14:19:24
+2020-05-21 14:19:30,960 - root - INFO - 第1步：点击登记-----pass
+2020-05-21 14:19:37,203 - root - INFO - 第2步：点击展开客户类型-----pass
+2020-05-21 14:19:43,435 - root - INFO - 第3步：选择散客登记-----pass
+2020-05-21 14:19:47,783 - root - INFO - 第4步：输入姓名-----pass
+2020-05-21 14:19:59,908 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='护照']"定位的元素文本信息
+2020-05-21 14:19:59,991 - root - INFO - 第5步：点击展开证件类型-----exception
+2020-05-21 14:20:12,059 - root - INFO - 用例结束时间:2020-05-21 14:20:12
+2020-05-21 14:20:12,060 - root - INFO - 用例通过条数4
+2020-05-21 14:20:12,061 - root - INFO - 用例失败条数：0
+2020-05-21 14:20:12,063 - root - INFO - 用例执行完成请查看测试报告：E:\file\python code\python\autotest-saas-prod-ui\report\体检云--杭州文晖分院测试报告.html
+2020-05-21 15:30:34,065 - root - INFO - 打开浏览器
+2020-05-21 15:30:36,182 - root - INFO - 输入用户名
+2020-05-21 15:30:38,289 - root - INFO - 输入密码
+2020-05-21 15:30:42,373 - root - INFO - 点击登录
+2020-05-21 15:30:50,560 - root - INFO - 选择浙江区域
+2020-05-21 15:30:58,692 - root - INFO - 选择杭州文晖分院
+2020-05-21 15:31:06,859 - root - INFO - 选择分院IT角色
+2020-05-21 15:31:16,924 - root - INFO - 点击进入
+2020-05-21 15:31:16,992 - root - INFO - 用例开始时间:2020-05-21 15:31:16
+2020-05-21 15:31:23,212 - root - INFO - 第1步：点击登记-----pass
+2020-05-21 15:31:23,230 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:31:29,499 - root - INFO - 第2步：点击展开客户类型-----pass
+2020-05-21 15:31:29,512 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:31:35,717 - root - INFO - 第3步：选择散客登记-----pass
+2020-05-21 15:31:35,729 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:31:40,035 - root - INFO - 第4步：输入姓名-----pass
+2020-05-21 15:31:40,047 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:31:46,295 - root - INFO - 第5步：点击展开证件类型-----pass
+2020-05-21 15:31:46,309 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:31:52,518 - root - INFO - 第6步：选择护照-----pass
+2020-05-21 15:31:52,530 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:31:56,834 - root - INFO - 第7步：输入证件号-----pass
+2020-05-21 15:31:56,847 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:32:08,086 - root - INFO - 第8步：点击展开性别-----fail
+2020-05-21 15:32:10,263 - root - INFO - 用例结束时间:2020-05-21 15:32:10
+2020-05-21 15:32:10,263 - root - INFO - 用例通过条数7
+2020-05-21 15:32:10,263 - root - INFO - 用例失败条数：1
+2020-05-21 15:32:10,265 - root - INFO - 用例执行完成请查看测试报告：E:\file\python code\python\autotest-saas-prod-ui\report\体检云--杭州文晖分院测试报告.html
+2020-05-21 15:36:26,222 - root - INFO - 打开浏览器
+2020-05-21 15:36:28,355 - root - INFO - 输入用户名
+2020-05-21 15:36:30,443 - root - INFO - 输入密码
+2020-05-21 15:36:34,511 - root - INFO - 点击登录
+2020-05-21 15:36:42,648 - root - INFO - 选择浙江区域
+2020-05-21 15:36:50,758 - root - INFO - 选择杭州文晖分院
+2020-05-21 15:36:58,893 - root - INFO - 选择分院IT角色
+2020-05-21 15:37:08,957 - root - INFO - 点击进入
+2020-05-21 15:37:08,993 - root - INFO - 用例开始时间:2020-05-21 15:37:08
+2020-05-21 15:37:15,153 - root - INFO - 第1步：点击登记-----pass
+2020-05-21 15:37:15,171 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:37:21,438 - root - INFO - 第2步：点击展开客户类型-----pass
+2020-05-21 15:37:21,449 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:37:27,637 - root - INFO - 第3步：选择散客登记-----pass
+2020-05-21 15:37:27,648 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:37:31,936 - root - INFO - 第4步：输入姓名-----pass
+2020-05-21 15:37:31,946 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:37:38,134 - root - INFO - 第5步：点击展开证件类型-----pass
+2020-05-21 15:37:38,146 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:37:44,341 - root - INFO - 第6步：选择护照-----pass
+2020-05-21 15:37:44,352 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:37:48,717 - root - INFO - 第7步：输入证件号-----pass
+2020-05-21 15:37:48,729 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:37:54,941 - root - INFO - 第8步：点击展开性别-----pass
+2020-05-21 15:37:54,952 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:38:01,292 - root - INFO - 第9步：点击性别-----pass
+2020-05-21 15:38:01,304 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:38:05,558 - root - INFO - 第10步：输入出生日期-----pass
+2020-05-21 15:38:05,570 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:38:11,762 - root - INFO - 第11步：点击客户信息关闭时间弹窗-----pass
+2020-05-21 15:38:11,774 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:38:16,138 - root - INFO - 第12步：输入手机号码-----pass
+2020-05-21 15:38:16,150 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:38:20,397 - root - INFO - 第13步：点击基本套餐-----pass
+2020-05-21 15:38:20,410 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:38:20,420 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:38:30,513 - root - INFO - 第14步：点击回车键查询基本套餐-----pass
+2020-05-21 15:38:30,524 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:38:34,710 - root - INFO - 第15步：查询定位中输入内科-----pass
+2020-05-21 15:38:34,720 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:38:34,729 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:38:44,857 - root - INFO - 第16步：点击回车查询内科-----pass
+2020-05-21 15:38:44,870 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:38:58,937 - root - INFO - 未找到"//div[contains(@class,'addItem')]//td[2]//div[1]"定位的元素文本信息
+2020-05-21 15:38:59,014 - root - INFO - 第17步：双击选择内科-----exception
+2020-05-21 15:39:01,160 - root - INFO - 用例结束时间:2020-05-21 15:39:01
+2020-05-21 15:39:01,160 - root - INFO - 用例通过条数16
+2020-05-21 15:39:01,161 - root - INFO - 用例失败条数：0
+2020-05-21 15:39:01,162 - root - INFO - 用例执行完成请查看测试报告：E:\file\python code\python\autotest-saas-prod-ui\report\体检云--杭州文晖分院测试报告.html
+2020-05-21 15:46:36,056 - root - INFO - 打开浏览器
+2020-05-21 15:46:38,166 - root - INFO - 输入用户名
+2020-05-21 15:46:40,248 - root - INFO - 输入密码
+2020-05-21 15:46:44,322 - root - INFO - 点击登录
+2020-05-21 15:46:52,485 - root - INFO - 选择浙江区域
+2020-05-21 15:47:00,582 - root - INFO - 选择杭州文晖分院
+2020-05-21 15:47:08,698 - root - INFO - 选择分院IT角色
+2020-05-21 15:47:18,776 - root - INFO - 点击进入
+2020-05-21 15:47:18,838 - root - INFO - 用例开始时间:2020-05-21 15:47:18
+2020-05-21 15:47:25,019 - root - INFO - 第1步：点击登记-----pass
+2020-05-21 15:47:25,037 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:47:31,275 - root - INFO - 第2步：点击展开客户类型-----pass
+2020-05-21 15:47:31,288 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:47:37,525 - root - INFO - 第3步：选择散客登记-----pass
+2020-05-21 15:47:37,536 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:47:41,823 - root - INFO - 第4步：输入姓名-----pass
+2020-05-21 15:47:41,835 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:47:48,049 - root - INFO - 第5步：点击展开证件类型-----pass
+2020-05-21 15:47:48,061 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:47:54,276 - root - INFO - 第6步：选择护照-----pass
+2020-05-21 15:47:54,286 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:47:58,621 - root - INFO - 第7步：输入证件号-----pass
+2020-05-21 15:47:58,631 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:48:04,859 - root - INFO - 第8步：点击展开性别-----pass
+2020-05-21 15:48:04,870 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:48:11,191 - root - INFO - 第9步：点击性别-----pass
+2020-05-21 15:48:11,202 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:48:15,464 - root - INFO - 第10步：输入出生日期-----pass
+2020-05-21 15:48:15,475 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:48:21,694 - root - INFO - 第11步：点击客户信息关闭时间弹窗-----pass
+2020-05-21 15:48:21,706 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:48:26,071 - root - INFO - 第12步：输入手机号码-----pass
+2020-05-21 15:48:26,083 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:48:30,334 - root - INFO - 第13步：点击基本套餐-----pass
+2020-05-21 15:48:30,346 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:48:30,355 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:48:40,451 - root - INFO - 第14步：点击回车键查询基本套餐-----pass
+2020-05-21 15:48:40,464 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:48:44,670 - root - INFO - 第15步：查询定位中输入内科-----pass
+2020-05-21 15:48:44,681 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:48:44,691 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:48:54,851 - root - INFO - 第16步：点击回车查询内科-----pass
+2020-05-21 15:48:54,862 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:49:08,955 - root - INFO - 未找到"//div[contains(@class,'addItem')]//td[2]//div[1]"定位的元素文本信息
+2020-05-21 15:49:09,032 - root - INFO - 第17步：双击选择内科-----exception
+2020-05-21 15:49:11,169 - root - INFO - 用例结束时间:2020-05-21 15:49:11
+2020-05-21 15:49:11,169 - root - INFO - 用例通过条数16
+2020-05-21 15:49:11,169 - root - INFO - 用例失败条数：0
+2020-05-21 15:49:11,171 - root - INFO - 用例执行完成请查看测试报告：E:\file\python code\python\autotest-saas-prod-ui\report\体检云--杭州文晖分院测试报告.html
+2020-05-21 15:51:22,274 - root - INFO - 打开浏览器
+2020-05-21 15:51:24,390 - root - INFO - 输入用户名
+2020-05-21 15:51:26,479 - root - INFO - 输入密码
+2020-05-21 15:51:30,546 - root - INFO - 点击登录
+2020-05-21 15:51:38,732 - root - INFO - 选择浙江区域
+2020-05-21 15:51:46,865 - root - INFO - 选择杭州文晖分院
+2020-05-21 15:51:54,982 - root - INFO - 选择分院IT角色
+2020-05-21 15:52:05,058 - root - INFO - 点击进入
+2020-05-21 15:52:05,099 - root - INFO - 用例开始时间:2020-05-21 15:52:05
+2020-05-21 15:52:11,275 - root - INFO - 第1步：点击登记-----pass
+2020-05-21 15:52:11,291 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:52:17,533 - root - INFO - 第2步：点击展开客户类型-----pass
+2020-05-21 15:52:17,545 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:52:23,734 - root - INFO - 第3步：选择散客登记-----pass
+2020-05-21 15:52:23,747 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:52:28,033 - root - INFO - 第4步：输入姓名-----pass
+2020-05-21 15:52:28,044 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:52:34,270 - root - INFO - 第5步：点击展开证件类型-----pass
+2020-05-21 15:52:34,282 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:52:40,472 - root - INFO - 第6步：选择护照-----pass
+2020-05-21 15:52:40,485 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:52:44,842 - root - INFO - 第7步：输入证件号-----pass
+2020-05-21 15:52:44,852 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:52:51,041 - root - INFO - 第8步：点击展开性别-----pass
+2020-05-21 15:52:51,052 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:52:57,383 - root - INFO - 第9步：点击性别-----pass
+2020-05-21 15:52:57,398 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:53:01,713 - root - INFO - 第10步：输入出生日期-----pass
+2020-05-21 15:53:01,725 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:53:07,916 - root - INFO - 第11步：点击客户信息关闭时间弹窗-----pass
+2020-05-21 15:53:07,929 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:53:12,372 - root - INFO - 第12步：输入手机号码-----pass
+2020-05-21 15:53:12,384 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:53:16,590 - root - INFO - 第13步：点击基本套餐-----pass
+2020-05-21 15:53:16,602 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:53:16,613 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:53:26,712 - root - INFO - 第14步：点击回车键查询基本套餐-----pass
+2020-05-21 15:53:26,723 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:53:30,909 - root - INFO - 第15步：查询定位中输入内科-----pass
+2020-05-21 15:53:30,920 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:53:30,929 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:53:41,075 - root - INFO - 第16步：点击回车查询内科-----pass
+2020-05-21 15:53:41,087 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:53:47,278 - root - INFO - 第17步：双击选择内科-----pass
+2020-05-21 15:53:47,288 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:53:51,475 - root - INFO - 第18步：查询定位中输入肝功一项-----pass
+2020-05-21 15:53:51,487 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:53:51,496 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:54:01,619 - root - INFO - 第19步：点击回车查询肝功一项-----pass
+2020-05-21 15:54:01,630 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:54:07,807 - root - INFO - 第20步：双击选择肝功一项-----pass
+2020-05-21 15:54:07,818 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:54:12,032 - root - INFO - 第21步：滑动鼠标页面置顶-----pass
+2020-05-21 15:54:12,044 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:54:27,233 - root - INFO - 第22步：点击保存-----pass
+2020-05-21 15:54:27,245 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:54:33,478 - root - INFO - 第23步：点击确定-----pass
+2020-05-21 15:54:33,490 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:54:39,777 - root - INFO - 第24步：关闭提示-----pass
+2020-05-21 15:54:39,788 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:54:45,975 - root - INFO - 第25步：移动鼠标到收费管理-----pass
+2020-05-21 15:54:45,985 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:54:52,145 - root - INFO - 第26步：点击收费-----pass
+2020-05-21 15:54:52,158 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:54:56,426 - root - INFO - 第27步：检索栏输入体检号-----pass
+2020-05-21 15:54:56,438 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:55:02,620 - root - INFO - 第28步：点击搜索-----pass
+2020-05-21 15:55:02,631 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:55:08,768 - root - INFO - 第29步：双击打开收费页面-----pass
+2020-05-21 15:55:08,780 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:55:14,971 - root - INFO - 第30步：点击收费-----pass
+2020-05-21 15:55:14,981 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:55:21,185 - root - INFO - 第31步：点击选择支付方式打开下拉框-----pass
+2020-05-21 15:55:21,197 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:55:27,432 - root - INFO - 第32步：点击选择现金-----pass
+2020-05-21 15:55:27,445 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:55:39,647 - root - INFO - 第33步：点击确认-----pass
+2020-05-21 15:55:39,659 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:55:45,829 - root - INFO - 第34步：点击关闭提示-----pass
+2020-05-21 15:55:45,840 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:55:52,031 - root - INFO - 第35步：移动鼠标切换账号-----pass
+2020-05-21 15:55:52,042 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:55:58,244 - root - INFO - 第36步：点击更换角色-----pass
+2020-05-21 15:55:58,255 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:56:21,736 - root - INFO - 第37步：点击角色框展开下拉框步-----pass
+2020-05-21 15:56:21,749 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:56:27,941 - root - INFO - 第38步：点击选择检验科-----pass
+2020-05-21 15:56:27,953 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:56:34,174 - root - INFO - 第39步：点击进入检验科科室-----pass
+2020-05-21 15:56:34,185 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:56:40,340 - root - INFO - 第40步：移动鼠标到检验管理-----pass
+2020-05-21 15:56:40,353 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:56:46,503 - root - INFO - 第41步：点击样本采集诊台-----pass
+2020-05-21 15:56:46,515 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:56:50,725 - root - INFO - 第42步：样本采集诊台输入体检号-----pass
+2020-05-21 15:56:50,736 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}
+2020-05-21 15:56:56,908 - root - INFO - 第43步：点击查询-----fail
+2020-05-21 15:56:59,101 - root - INFO - 用例结束时间:2020-05-21 15:56:59
+2020-05-21 15:56:59,101 - root - INFO - 用例通过条数42
+2020-05-21 15:56:59,101 - root - INFO - 用例失败条数：1
+2020-05-21 15:56:59,103 - root - INFO - 用例执行完成请查看测试报告：E:\file\python code\python\autotest-saas-prod-ui\report\体检云--杭州文晖分院测试报告.html
+2020-05-21 15:56:59,219 - root - INFO - 上传接口返回：{"code": 400, "message": "failRate:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Float' for property 'failRate'; nested exception is java.lang.NumberFormatException: For input string: \"2%\",passRate:Failed to convert property value of type 'java.lang.String' to required type 'java.lang.Float' for property 'passRate'; nested exception is java.lang.NumberFormatException: For input string: \"98%\",", "result": null}
+2020-05-21 16:10:56,330 - root - INFO - 打开浏览器
+2020-05-21 16:10:58,439 - root - INFO - 输入用户名
+2020-05-21 16:11:00,511 - root - INFO - 输入密码
+2020-05-21 16:11:04,585 - root - INFO - 点击登录
+2020-05-21 16:11:12,775 - root - INFO - 选择浙江区域
+2020-05-21 16:11:20,900 - root - INFO - 选择杭州文晖分院
+2020-05-21 16:11:29,053 - root - INFO - 选择分院IT角色
+2020-05-21 16:11:39,126 - root - INFO - 点击进入
+2020-05-21 16:11:39,161 - root - INFO - 用例开始时间:2020-05-21 16:11:39
+2020-05-21 16:11:45,312 - root - INFO - 第1步：点击登记-----pass
+2020-05-21 16:11:45,342 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:11:51,562 - root - INFO - 第2步：点击展开客户类型-----pass
+2020-05-21 16:11:51,577 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:11:57,792 - root - INFO - 第3步：选择散客登记-----pass
+2020-05-21 16:11:57,806 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:12:02,096 - root - INFO - 第4步：输入姓名-----pass
+2020-05-21 16:12:02,110 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:12:08,304 - root - INFO - 第5步：点击展开证件类型-----pass
+2020-05-21 16:12:08,319 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:12:14,512 - root - INFO - 第6步：选择护照-----pass
+2020-05-21 16:12:14,528 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:12:18,888 - root - INFO - 第7步：输入证件号-----pass
+2020-05-21 16:12:18,901 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:12:25,093 - root - INFO - 第8步：点击展开性别-----pass
+2020-05-21 16:12:25,108 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:12:31,457 - root - INFO - 第9步：点击性别-----pass
+2020-05-21 16:12:31,473 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:12:35,748 - root - INFO - 第10步：输入出生日期-----pass
+2020-05-21 16:12:35,764 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:12:42,037 - root - INFO - 第11步：点击客户信息关闭时间弹窗-----pass
+2020-05-21 16:12:42,054 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:12:46,471 - root - INFO - 第12步：输入手机号码-----pass
+2020-05-21 16:12:46,484 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:12:50,700 - root - INFO - 第13步：点击基本套餐-----pass
+2020-05-21 16:12:50,715 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:12:50,727 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:13:00,831 - root - INFO - 第14步：点击回车键查询基本套餐-----pass
+2020-05-21 16:13:00,844 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:13:05,036 - root - INFO - 第15步：查询定位中输入内科-----pass
+2020-05-21 16:13:05,054 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:13:05,064 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:13:15,201 - root - INFO - 第16步：点击回车查询内科-----pass
+2020-05-21 16:13:15,215 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:13:21,391 - root - INFO - 第17步：双击选择内科-----pass
+2020-05-21 16:13:21,405 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:13:25,584 - root - INFO - 第18步：查询定位中输入肝功一项-----pass
+2020-05-21 16:13:25,599 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:13:25,610 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:13:35,711 - root - INFO - 第19步：点击回车查询肝功一项-----pass
+2020-05-21 16:13:35,726 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:13:41,914 - root - INFO - 第20步：双击选择肝功一项-----pass
+2020-05-21 16:13:41,929 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:13:46,036 - root - INFO - 第21步：滑动鼠标页面置顶-----pass
+2020-05-21 16:13:46,049 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:14:01,204 - root - INFO - 第22步：点击保存-----pass
+2020-05-21 16:14:01,217 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:14:07,415 - root - INFO - 第23步：点击确定-----pass
+2020-05-21 16:14:07,427 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:14:13,627 - root - INFO - 第24步：关闭提示-----pass
+2020-05-21 16:14:13,640 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:14:19,793 - root - INFO - 第25步：移动鼠标到收费管理-----pass
+2020-05-21 16:14:19,806 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:14:26,001 - root - INFO - 第26步：点击收费-----pass
+2020-05-21 16:14:26,015 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:14:30,278 - root - INFO - 第27步：检索栏输入体检号-----pass
+2020-05-21 16:14:30,293 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:14:36,464 - root - INFO - 第28步：点击搜索-----pass
+2020-05-21 16:14:36,478 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:14:42,643 - root - INFO - 第29步：双击打开收费页面-----pass
+2020-05-21 16:14:42,659 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:14:48,850 - root - INFO - 第30步：点击收费-----pass
+2020-05-21 16:14:48,864 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:14:55,036 - root - INFO - 第31步：点击选择支付方式打开下拉框-----pass
+2020-05-21 16:14:55,051 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:15:01,225 - root - INFO - 第32步：点击选择现金-----pass
+2020-05-21 16:15:01,239 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:15:13,435 - root - INFO - 第33步：点击确认-----pass
+2020-05-21 16:15:13,448 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:15:19,598 - root - INFO - 第34步：点击关闭提示-----pass
+2020-05-21 16:15:19,609 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:15:25,777 - root - INFO - 第35步：移动鼠标切换账号-----pass
+2020-05-21 16:15:25,792 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:15:31,992 - root - INFO - 第36步：点击更换角色-----pass
+2020-05-21 16:15:32,007 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:15:55,516 - root - INFO - 第37步：点击角色框展开下拉框步-----pass
+2020-05-21 16:15:55,530 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:16:01,789 - root - INFO - 第38步：点击选择检验科-----pass
+2020-05-21 16:16:01,803 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:16:07,964 - root - INFO - 第39步：点击进入检验科科室-----pass
+2020-05-21 16:16:07,978 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:16:14,190 - root - INFO - 第40步：移动鼠标到检验管理-----pass
+2020-05-21 16:16:14,206 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:16:20,356 - root - INFO - 第41步：点击样本采集诊台-----pass
+2020-05-21 16:16:20,369 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:16:24,572 - root - INFO - 第42步：样本采集诊台输入体检号-----pass
+2020-05-21 16:16:24,585 - root - INFO - 进度条接口返回：{"code": 500, "message": "\u8fd9\u4e2a\u65b9\u68485\u6ca1\u6709\u5728\u6267\u884c", "result": null}
+2020-05-21 16:16:30,759 - root - INFO - 第43步：点击查询-----fail
+2020-05-21 16:16:32,947 - root - INFO - 用例结束时间:2020-05-21 16:16:32
+2020-05-21 16:16:32,947 - root - INFO - 用例通过条数42
+2020-05-21 16:16:32,947 - root - INFO - 用例失败条数：1
+2020-05-21 16:16:32,949 - root - INFO - 用例执行完成请查看测试报告：E:\file\python code\python\autotest-saas-prod-ui\report\体检云--杭州文晖分院测试报告.html
+2020-05-21 16:16:33,046 - root - INFO - 上传接口返回：{"code": 500, "message": "\u83b7\u53d6\u65b9\u6848\u6765\u6e90\u5931\u8d25\uff0c\u5728TestIng\u4e2d\u627e\u4e0d\u5230baseSchemeId=5\u7684\u6b63\u5728\u6267\u884c\u6570\u636e", "result": null}

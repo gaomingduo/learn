@@ -1,0 +1,208 @@
+2020-05-14 10:24:54,255 - root - INFO - 未找到"//input[@placeholder='请输入账号']"输入事件的定位元素
+2020-05-14 10:24:54,263 - root - INFO - 未找到"//input[@placeholder='请输入账号']"输入事件的定位元素
+2020-05-14 10:25:09,758 - root - INFO - 未找到"//input[@placeholder='请选择二级组织']"点击事件的定位元素
+2020-05-14 10:25:19,790 - root - INFO - 未找到"//input[@placeholder='请选择二级组织']"点击事件的定位元素
+2020-05-14 10:25:26,975 - root - INFO - 未找到"//span[contains(text(),'德阳区域' )]"点击事件的定位元素
+2020-05-14 10:25:26,975 - root - INFO - 未找到"//span[contains(text(),'德阳区域' )]"点击事件的定位元素
+2020-05-14 10:25:26,975 - root - INFO - 未找到"//input[@placeholder='请选择二级组织']"点击事件的定位元素
+2020-05-14 10:25:26,975 - root - INFO - 未找到"//span[contains(text(),'德阳区域' )]"点击事件的定位元素
+2020-05-14 10:25:26,975 - root - INFO - 未找到"//span[contains(text(),'德阳区域' )]"点击事件的定位元素
+2020-05-14 10:25:26,975 - root - INFO - 未找到"//input[@placeholder='请选择二级组织']"点击事件的定位元素
+2020-05-14 10:25:26,975 - root - INFO - 未找到"//span[contains(text(),'德阳区域' )]"点击事件的定位元素
+2020-05-14 10:25:26,975 - root - INFO - 未找到"//input[@placeholder='请选择二级组织']"点击事件的定位元素
+2020-05-14 10:25:26,975 - root - INFO - 未找到"//span[contains(text(),'德阳区域' )]"点击事件的定位元素
+2020-05-14 10:25:26,975 - root - INFO - 未找到"//input[@placeholder='请选择二级组织']"点击事件的定位元素
+2020-05-14 10:25:26,975 - root - INFO - 未找到"//input[@placeholder='请选择二级组织']"点击事件的定位元素
+2020-05-14 10:25:26,978 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:53307/session/b51da53757a923b8732b94ea18f46d39/element {"using": "xpath", "value": "//span[contains(text(),'\u6d59\u6c5f\u533a\u57df' )]", "sessionId": "b51da53757a923b8732b94ea18f46d39"}
+2020-05-14 10:25:26,978 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:53307/session/b51da53757a923b8732b94ea18f46d39/element {"using": "xpath", "value": "//input[@placeholder='\u8bf7\u9009\u62e9\u4e09\u7ea7\u7ec4\u7ec7']", "sessionId": "b51da53757a923b8732b94ea18f46d39"}
+2020-05-14 10:25:26,978 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:53307/session/b51da53757a923b8732b94ea18f46d39/element {"using": "xpath", "value": "//span[contains(text(),'\u6d59\u6c5f\u533a\u57df' )]", "sessionId": "b51da53757a923b8732b94ea18f46d39"}
+2020-05-14 10:25:26,994 - root - INFO - 未找到"//span[contains(text(),'浙江区域' )]"点击事件的定位元素
+2020-05-14 10:25:26,994 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-14 10:25:26,996 - root - INFO - 未找到"//span[contains(text(),'浙江区域' )]"点击事件的定位元素
+2020-05-14 10:25:26,999 - root - INFO - 未找到"//input[@placeholder='请选择三级组织']"点击事件的定位元素
+2020-05-14 10:25:26,999 - root - INFO - 未找到"//input[@placeholder='请选择三级组织']"点击事件的定位元素
+2020-05-14 10:25:26,999 - root - INFO - 未找到"//input[@placeholder='请选择三级组织']"点击事件的定位元素
+2020-05-14 10:25:26,999 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-14 10:25:27,002 - root - INFO - 未找到"//input[@placeholder='请选择三级组织']"点击事件的定位元素
+2020-05-14 10:25:27,004 - root - INFO - 未找到"//input[@placeholder='请选择三级组织']"点击事件的定位元素
+2020-05-14 10:25:27,004 - root - INFO - 未找到"//span[contains(text(),'爱康国宾德阳文庙广场文华楼分院' )]"点击事件的定位元素
+2020-05-14 10:25:27,004 - root - INFO - 未找到"//input[@placeholder='请选择三级组织']"点击事件的定位元素
+2020-05-14 10:25:27,004 - root - INFO - 未找到"//input[@placeholder='请选择三级组织']"点击事件的定位元素
+2020-05-14 10:25:27,004 - root - INFO - 未找到"//span[contains(text(),'杭州文晖分院' )]"点击事件的定位元素
+2020-05-14 10:25:27,004 - root - INFO - 未找到"//span[contains(text(),'爱康国宾德阳文庙广场文华楼分院' )]"点击事件的定位元素
+2020-05-14 10:25:27,004 - root - INFO - 未找到"//input[@placeholder='请选择三级组织']"点击事件的定位元素
+2020-05-14 10:25:27,004 - root - INFO - 未找到"//span[contains(text(),'爱康国宾德阳文庙广场文华楼分院' )]"点击事件的定位元素
+2020-05-14 10:25:27,004 - root - INFO - 未找到"//span[contains(text(),'爱康国宾德阳文庙广场文华楼分院' )]"点击事件的定位元素
+2020-05-14 10:25:27,004 - root - INFO - 未找到"//span[contains(text(),'爱康国宾德阳文庙广场文华楼分院' )]"点击事件的定位元素
+2020-05-14 10:25:27,004 - root - INFO - 未找到"//span[contains(text(),'爱康国宾德阳文庙广场文华楼分院' )]"点击事件的定位元素
+2020-05-14 10:25:27,005 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:53307/session/b51da53757a923b8732b94ea18f46d39/element {"using": "xpath", "value": "//input[@placeholder='\u8bf7\u9009\u62e9\u89d2\u8272']", "sessionId": "b51da53757a923b8732b94ea18f46d39"}
+2020-05-14 10:25:27,004 - root - INFO - 未找到"//span[contains(text(),'杭州文晖分院' )]"点击事件的定位元素
+2020-05-14 10:25:27,005 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:53307/session/b51da53757a923b8732b94ea18f46d39/element {"using": "xpath", "value": "//span[contains(text(),'\u676d\u5dde\u6587\u6656\u5206\u9662' )]", "sessionId": "b51da53757a923b8732b94ea18f46d39"}
+2020-05-14 10:25:27,009 - root - INFO - 未找到"//input[@placeholder='请选择角色']"点击事件的定位元素
+2020-05-14 10:25:27,012 - root - INFO - 未找到"//span[contains(text(),'杭州文晖分院' )]"点击事件的定位元素
+2020-05-14 10:25:27,012 - root - INFO - 未找到"//input[@placeholder='请选择角色']"点击事件的定位元素
+2020-05-14 10:25:27,012 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-14 10:25:27,013 - root - INFO - 未找到"//input[@placeholder='请选择角色']"点击事件的定位元素
+2020-05-14 10:25:27,017 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-14 10:25:27,018 - urllib3.connectionpool - DEBUG - http://127.0.0.1:53307 "POST /session/b51da53757a923b8732b94ea18f46d39/element HTTP/1.1" 200 332
+2020-05-14 10:25:27,019 - root - INFO - 未找到"//input[@placeholder='请选择角色']"点击事件的定位元素
+2020-05-14 10:25:27,019 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:53307/session/b51da53757a923b8732b94ea18f46d39/element {"using": "xpath", "value": "//button[@type='button']", "sessionId": "b51da53757a923b8732b94ea18f46d39"}
+2020-05-14 10:25:27,021 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-14 10:25:27,021 - root - INFO - 未找到"//button[@type='button']"点击事件的定位元素
+2020-05-14 10:25:27,021 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:53307/session/b51da53757a923b8732b94ea18f46d39/element {"using": "xpath", "value": "//span[contains(text(), '\u5206\u9662IT')]", "sessionId": "b51da53757a923b8732b94ea18f46d39"}
+2020-05-14 10:25:27,021 - urllib3.connectionpool - DEBUG - http://127.0.0.1:53307 "POST /session/b51da53757a923b8732b94ea18f46d39/element HTTP/1.1" 200 332
+2020-05-14 10:25:27,024 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-14 10:25:27,024 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-14 10:25:27,024 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-14 10:25:27,024 - urllib3.connectionpool - DEBUG - http://127.0.0.1:53307 "POST /session/b51da53757a923b8732b94ea18f46d39/element HTTP/1.1" 200 332
+2020-05-14 10:25:27,024 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-14 10:25:27,027 - root - INFO - 未找到"//button[@type='button']"点击事件的定位元素
+2020-05-14 10:25:27,028 - root - INFO - 未找到"//button[@type='button']"点击事件的定位元素
+2020-05-14 10:25:27,039 - root - INFO - 未找到"//button[@type='button']"点击事件的定位元素
+2020-05-14 10:25:27,056 - root - INFO - 未找到"//span[text()='登记']"点击事件的定位元素
+2020-05-14 10:25:27,057 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-14 10:25:27,061 - root - INFO - 未找到"//span[text()='登记']"点击事件的定位元素
+2020-05-14 10:25:27,068 - root - INFO - 未找到"//div[@class='title']//h3"定位的元素文本信息
+2020-05-14 10:25:27,069 - root - INFO - 未找到"//span[text()='登记']"点击事件的定位元素
+2020-05-14 10:25:27,069 - urllib3.connectionpool - DEBUG - http://127.0.0.1:53307 "POST /session/b51da53757a923b8732b94ea18f46d39/element HTTP/1.1" 200 332
+2020-05-14 10:25:27,072 - root - INFO - 未找到"//div[@class='title']//h3"定位的元素文本信息
+2020-05-14 10:25:27,073 - root - INFO - 未找到"//div[@class='title']//h3"定位的元素文本信息
+2020-05-14 10:25:27,073 - urllib3.connectionpool - DEBUG - http://127.0.0.1:53307 "POST /session/b51da53757a923b8732b94ea18f46d39/element HTTP/1.1" 200 332
+2020-05-14 10:25:27,074 - root - INFO - 未找到"//span[text()='登记']"点击事件的定位元素
+2020-05-14 10:25:27,076 - root - INFO - 未找到"//div[@class='title']//h3"定位的元素文本信息
+2020-05-14 14:27:20,829 - root - INFO - 未找到"//input[@placeholder='请选择三级组织']"点击事件的定位元素
+2020-05-14 14:27:21,500 - root - INFO - 未找到"//span[contains(text(),'爱康国宾德阳文庙广场文华楼分院' )]"点击事件的定位元素
+2020-05-14 14:27:21,500 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-14 14:27:31,540 - root - INFO - 未找到"//input[@placeholder='请选择角色']"点击事件的定位元素
+2020-05-14 14:27:41,579 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-14 14:27:54,798 - root - INFO - 未找到"//span[text()='登记']"点击事件的定位元素
+2020-05-14 14:28:04,826 - root - INFO - 未找到"//div[@class='title']//h3"定位的元素文本信息
+2020-05-14 16:15:22,007 - root - INFO - 未找到"//input[@placeholder='请选择角色']"点击事件的定位元素
+2020-05-14 16:15:22,026 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-14 16:15:46,069 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='散客']"点击事件的定位元素
+2020-05-14 16:26:57,350 - root - INFO - 未找到"//span[contains(text(),'德阳区域' )]"点击事件的定位元素
+2020-05-14 16:26:58,020 - root - INFO - 未找到"//input[@placeholder='请选择三级组织']"点击事件的定位元素
+2020-05-14 16:27:08,053 - root - INFO - 未找到"//span[contains(text(),'爱康国宾德阳文庙广场文华楼分院' )]"点击事件的定位元素
+2020-05-14 17:15:09,704 - root - INFO - 未找到"//span[contains(text(),'杭州文晖分院' )]"点击事件的定位元素
+2020-05-14 17:21:21,753 - root - INFO - 点击登记-----pass
+2020-05-14 17:21:24,919 - root - INFO - 点击展开客户类型-----pass
+2020-05-14 17:21:28,015 - root - INFO - 选择散客登记-----pass
+2020-05-14 17:21:30,205 - root - INFO - 输入姓名-----pass
+2020-05-14 17:34:22,038 - root - INFO - 2020-05-14 17:34:22.026560
+2020-05-14 17:34:25,115 - root - INFO - 点击登记-----pass
+2020-05-14 17:34:28,260 - root - INFO - 点击展开客户类型-----pass
+2020-05-14 17:34:31,363 - root - INFO - 选择散客登记-----pass
+2020-05-14 17:34:33,534 - root - INFO - 输入姓名-----pass
+2020-05-14 17:34:33,534 - root - INFO - 用例通过条数4
+2020-05-14 17:34:33,535 - root - INFO - 用例失败条数：0
+2020-05-14 17:41:09,139 - root - INFO - 用例开始时间:2020-05-14 17:41:09
+2020-05-14 17:41:12,212 - root - INFO - 点击登记-----pass
+2020-05-14 17:41:15,357 - root - INFO - 点击展开客户类型-----pass
+2020-05-14 17:41:18,471 - root - INFO - 选择散客登记-----pass
+2020-05-14 17:41:20,660 - root - INFO - 输入姓名-----pass
+2020-05-14 17:41:20,661 - root - INFO - 用例结束时间:2020-05-14 17:41:20
+2020-05-14 17:41:20,661 - root - INFO - 用例通过条数4
+2020-05-14 17:41:20,661 - root - INFO - 用例失败条数：0
+2020-05-14 17:48:15,519 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-14 17:48:15,573 - root - INFO - 未找到"//button[@type='button']"点击事件的定位元素
+2020-05-14 17:48:15,580 - root - INFO - 用例开始时间:2020-05-14 17:48:15
+2020-05-14 17:48:25,586 - root - INFO - 未找到"//span[text()='登记']"点击事件的定位元素
+2020-05-14 17:56:18,339 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-14 17:56:18,377 - root - INFO - 未找到"//button[@type='button']"点击事件的定位元素
+2020-05-14 17:56:18,384 - root - INFO - 用例开始时间:2020-05-14 17:56:18
+2020-05-14 17:56:28,435 - root - INFO - 未找到"//span[text()='登记']"点击事件的定位元素
+2020-05-14 17:56:38,461 - root - INFO - 未找到"//div[@class='title']//h3"定位的元素文本信息
+2020-05-14 18:00:05,978 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-14 18:00:06,012 - root - INFO - 未找到"//button[@type='button']"点击事件的定位元素
+2020-05-14 18:00:06,019 - root - INFO - 用例开始时间:2020-05-14 18:00:06
+2020-05-14 18:00:16,050 - root - INFO - 未找到"//span[text()='登记']"点击事件的定位元素
+2020-05-14 18:00:26,062 - root - INFO - 未找到"//div[@class='title']//h3"定位的元素文本信息
+2020-05-14 18:00:28,147 - root - INFO - 点击登记-----fail
+2020-05-14 18:00:36,165 - root - INFO - 未找到"//div[@class='el-select el-tooltip']//div[1]//input"点击事件的定位元素
+2020-05-14 18:00:44,179 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='散客']"定位的元素文本信息
+2020-05-14 18:00:52,196 - root - INFO - 点击展开客户类型-----fail
+2020-05-14 18:01:00,212 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='散客']"点击事件的定位元素
+2020-05-14 18:01:08,230 - root - INFO - 未找到"//div[@class='el-select el-tooltip']//div[1]//input"定位的元素文本信息
+2020-05-14 18:01:08,231 - root - INFO - 选择散客登记-----fail
+2020-05-14 18:01:16,252 - root - INFO - 未找到"//input[@placeholder='回车查询预约单']"输入事件的定位元素
+2020-05-14 18:01:24,272 - root - INFO - 未找到"//input[@placeholder='回车查询预约单']"定位的元素文本信息
+2020-05-14 18:01:24,273 - root - INFO - 输入姓名-----fail
+2020-05-14 18:01:24,274 - root - INFO - 用例结束时间:2020-05-14 18:01:24
+2020-05-14 18:01:24,275 - root - INFO - 用例通过条数0
+2020-05-14 18:01:24,276 - root - INFO - 用例失败条数：4
+2020-05-14 18:07:57,379 - root - INFO - 未找到"//span[contains(text(),'北京区域' )]"点击事件的定位元素
+2020-05-14 18:08:07,462 - root - INFO - 未找到"//input[@placeholder='请选择三级组织']"点击事件的定位元素
+2020-05-14 18:08:23,491 - root - INFO - 未找到"//span[contains(text(),'北京公主坟分院' )]"点击事件的定位元素
+2020-05-14 18:08:39,520 - root - INFO - 未找到"//input[@placeholder='请选择角色']"点击事件的定位元素
+2020-05-14 18:08:55,554 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-14 18:09:11,575 - root - INFO - 未找到"//button[@type='button']"点击事件的定位元素
+2020-05-14 18:09:19,601 - root - INFO - 用例开始时间:2020-05-14 18:09:19
+2020-05-14 18:09:27,619 - root - INFO - 未找到"//span[text()='登记']"点击事件的定位元素
+2020-05-14 18:12:06,714 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-14 18:12:06,758 - root - INFO - 未找到"//button[@type='button']"点击事件的定位元素
+2020-05-14 18:12:06,765 - root - INFO - 用例开始时间:2020-05-14 18:12:06
+2020-05-14 18:12:16,831 - root - INFO - 未找到"//span[text()='登记']"点击事件的定位元素
+2020-05-14 18:12:26,884 - root - INFO - 未找到"//div[@class='title']//h3"定位的元素文本信息
+2020-05-14 18:12:26,884 - root - INFO - 点击登记-----fail
+2020-05-14 18:12:36,935 - root - INFO - 未找到"//div[@class='el-select el-tooltip']//div[1]//input"点击事件的定位元素
+2020-05-14 18:12:46,964 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='散客']"定位的元素文本信息
+2020-05-14 18:12:46,964 - root - INFO - 点击展开客户类型-----fail
+2020-05-14 18:12:57,002 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='散客']"点击事件的定位元素
+2020-05-14 18:13:07,026 - root - INFO - 未找到"//div[@class='el-select el-tooltip']//div[1]//input"定位的元素文本信息
+2020-05-14 18:13:07,026 - root - INFO - 选择散客登记-----fail
+2020-05-14 18:13:17,041 - root - INFO - 未找到"//input[@placeholder='回车查询预约单']"输入事件的定位元素
+2020-05-14 18:13:27,100 - root - INFO - 未找到"//input[@placeholder='回车查询预约单']"定位的元素文本信息
+2020-05-14 18:13:27,100 - root - INFO - 输入姓名-----fail
+2020-05-14 18:13:27,101 - root - INFO - 用例结束时间:2020-05-14 18:13:27
+2020-05-14 18:15:07,769 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-14 18:15:07,829 - root - INFO - 未找到"//button[@type='button']"点击事件的定位元素
+2020-05-14 18:15:07,836 - root - INFO - 用例开始时间:2020-05-14 18:15:07
+2020-05-14 18:15:17,873 - root - INFO - 未找到"//span[text()='登记']"点击事件的定位元素
+2020-05-14 18:15:27,942 - root - INFO - 未找到"//div[@class='title']//h3"定位的元素文本信息
+2020-05-14 18:15:27,943 - root - INFO - 点击登记-----fail
+2020-05-14 18:15:37,954 - root - INFO - 未找到"//div[@class='el-select el-tooltip']//div[1]//input"点击事件的定位元素
+2020-05-14 18:15:47,995 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='散客']"定位的元素文本信息
+2020-05-14 18:15:47,996 - root - INFO - 点击展开客户类型-----fail
+2020-05-14 18:15:58,066 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='散客']"点击事件的定位元素
+2020-05-14 18:16:08,092 - root - INFO - 未找到"//div[@class='el-select el-tooltip']//div[1]//input"定位的元素文本信息
+2020-05-14 18:16:08,092 - root - INFO - 选择散客登记-----fail
+2020-05-14 18:16:18,124 - root - INFO - 未找到"//input[@placeholder='回车查询预约单']"输入事件的定位元素
+2020-05-14 18:16:28,168 - root - INFO - 未找到"//input[@placeholder='回车查询预约单']"定位的元素文本信息
+2020-05-14 18:16:28,169 - root - INFO - 输入姓名-----fail
+2020-05-14 18:16:28,170 - root - INFO - 用例结束时间:2020-05-14 18:16:28
+2020-05-14 18:16:28,171 - root - INFO - 用例通过条数0
+2020-05-14 18:16:28,173 - root - INFO - 用例失败条数：0
+2020-05-14 18:22:04,619 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-14 18:22:04,674 - root - INFO - 未找到"//button[@type='button']"点击事件的定位元素
+2020-05-14 18:22:04,681 - root - INFO - 用例开始时间:2020-05-14 18:22:04
+2020-05-14 18:22:14,744 - root - INFO - 未找到"//span[text()='登记']"点击事件的定位元素
+2020-05-14 18:22:24,796 - root - INFO - 未找到"//div[@class='title']//h3"定位的元素文本信息
+2020-05-14 18:22:24,796 - root - INFO - 点击登记-----fail
+2020-05-14 18:22:34,842 - root - INFO - 未找到"//div[@class='el-select el-tooltip']//div[1]//input"点击事件的定位元素
+2020-05-14 18:22:44,864 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='散客']"定位的元素文本信息
+2020-05-14 18:22:44,866 - root - INFO - 点击展开客户类型-----fail
+2020-05-14 18:22:54,902 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='散客']"点击事件的定位元素
+2020-05-14 18:23:04,925 - root - INFO - 未找到"//div[@class='el-select el-tooltip']//div[1]//input"定位的元素文本信息
+2020-05-14 18:23:04,926 - root - INFO - 选择散客登记-----fail
+2020-05-14 18:23:14,953 - root - INFO - 未找到"//input[@placeholder='回车查询预约单']"输入事件的定位元素
+2020-05-14 18:23:25,004 - root - INFO - 未找到"//input[@placeholder='回车查询预约单']"定位的元素文本信息
+2020-05-14 18:23:25,006 - root - INFO - 输入姓名-----fail
+2020-05-14 18:23:25,007 - root - INFO - 用例结束时间:2020-05-14 18:23:25
+2020-05-14 18:23:25,008 - root - INFO - 用例通过条数0
+2020-05-14 18:23:25,009 - root - INFO - 用例失败条数：4
+2020-05-14 18:27:43,796 - root - INFO - 用例开始时间:2020-05-14 18:27:43
+2020-05-14 18:27:46,889 - root - INFO - 点击登记-----pass
+2020-05-14 18:27:50,035 - root - INFO - 点击展开客户类型-----pass
+2020-05-14 18:27:53,167 - root - INFO - 选择散客登记-----pass
+2020-05-14 18:27:55,367 - root - INFO - 输入姓名-----pass
+2020-05-14 18:27:55,367 - root - INFO - 用例结束时间:2020-05-14 18:27:55
+2020-05-14 18:27:55,367 - root - INFO - 用例通过条数4
+2020-05-14 18:27:55,367 - root - INFO - 用例失败条数：0
+2020-05-14 21:00:38,402 - root - INFO - 用例开始时间:2020-05-14 21:00:38
+2020-05-14 21:00:41,510 - root - INFO - 点击登记-----pass
+2020-05-14 21:00:44,648 - root - INFO - 点击展开客户类型-----pass
+2020-05-14 21:00:47,761 - root - INFO - 选择散客登记-----pass
+2020-05-14 21:00:47,783 - root - INFO - 未找到"//li//span[contains(text(),'男')]"点击事件的定位元素
+2020-05-14 21:00:47,801 - root - INFO - 选择男-----fail
+2020-05-14 21:00:50,001 - root - INFO - 输入姓名-----pass
+2020-05-14 21:00:52,283 - root - INFO - 输入证件号-----fail

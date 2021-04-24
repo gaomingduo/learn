@@ -1,0 +1,479 @@
+2020-05-18 14:40:22,381 - root - INFO - 用例开始时间:2020-05-18 14:40:22
+2020-05-18 14:40:25,529 - root - INFO - 点击登记-----pass
+2020-05-18 14:40:28,692 - root - INFO - 点击展开客户类型-----pass
+2020-05-18 14:40:31,820 - root - INFO - 选择散客登记-----pass
+2020-05-18 14:40:34,042 - root - INFO - 输入姓名-----pass
+2020-05-18 14:40:37,197 - root - INFO - 点击展开证件类型-----pass
+2020-05-18 14:40:40,341 - root - INFO - 选择护照-----pass
+2020-05-18 14:40:42,651 - root - INFO - 输入证件号-----pass
+2020-05-18 14:40:45,779 - root - INFO - 点击展开性别-----pass
+2020-05-18 14:40:49,087 - root - INFO - 点击性别-----pass
+2020-05-18 14:40:51,291 - root - INFO - 输入出生日期-----pass
+2020-05-18 14:40:54,409 - root - INFO - 点击客户信息关闭时间弹窗-----pass
+2020-05-18 14:40:56,753 - root - INFO - 输入手机号码-----pass
+2020-05-18 14:40:59,848 - root - INFO - 点击基本套餐-----pass
+2020-05-18 14:41:01,895 - root - INFO - 点击回车键查询基本套餐-----pass
+2020-05-18 14:41:04,002 - root - INFO - 查询定位中输入内科-----pass
+2020-05-18 14:41:06,055 - root - INFO - 点击回车查询内科-----pass
+2020-05-18 14:41:09,128 - root - INFO - 双击选择内科-----pass
+2020-05-18 14:41:11,229 - root - INFO - 查询定位中输入肝功一项-----pass
+2020-05-18 14:41:13,273 - root - INFO - 点击回车查询肝功一项-----pass
+2020-05-18 14:41:16,346 - root - INFO - 双击选择肝功一项-----pass
+2020-05-18 14:41:18,432 - root - INFO - 滑动鼠标页面置顶-----pass
+2020-05-18 14:41:23,546 - root - INFO - 点击保存-----pass
+2020-05-18 14:41:26,700 - root - INFO - 点击确定-----pass
+2020-05-18 14:41:29,866 - root - INFO - 关闭提示-----pass
+2020-05-18 14:41:31,938 - root - INFO - 移动鼠标到收费管理-----pass
+2020-05-18 14:41:35,044 - root - INFO - 点击收费-----pass
+2020-05-18 14:41:37,240 - root - INFO - 检索栏输入体检号-----pass
+2020-05-18 14:41:50,347 - root - INFO - 未找到"//td[@class='el-table_25_column_246  ']//div"定位的元素文本信息
+2020-05-18 14:41:50,347 - root - INFO - 点击搜索-----exception
+2020-05-18 14:42:00,394 - root - INFO - 未找到//td[@class='el-table_25_column_246  ']//div双击事件的定位元素
+2020-05-18 14:42:10,429 - root - INFO - 未找到"//button[@type='button']//span[contains(text(),'收款')]"定位的元素文本信息
+2020-05-18 14:42:10,429 - root - INFO - 双击打开收费页面-----exception
+2020-05-18 14:42:20,437 - root - INFO - 未找到"//button[@type='button']//span[contains(text(),'收款')]"点击事件的定位元素
+2020-05-18 14:49:38,471 - root - INFO - 用例开始时间:2020-05-18 14:49:38
+2020-05-18 14:49:41,579 - root - INFO - 点击登记-----pass
+2020-05-18 14:49:44,758 - root - INFO - 点击展开客户类型-----pass
+2020-05-18 14:49:47,894 - root - INFO - 选择散客登记-----pass
+2020-05-18 14:49:50,131 - root - INFO - 输入姓名-----pass
+2020-05-18 14:49:53,313 - root - INFO - 点击展开证件类型-----pass
+2020-05-18 14:49:56,456 - root - INFO - 选择护照-----pass
+2020-05-18 14:49:58,753 - root - INFO - 输入证件号-----pass
+2020-05-18 14:50:01,890 - root - INFO - 点击展开性别-----pass
+2020-05-18 14:50:05,180 - root - INFO - 点击性别-----pass
+2020-05-18 14:50:07,373 - root - INFO - 输入出生日期-----pass
+2020-05-18 14:50:10,486 - root - INFO - 点击客户信息关闭时间弹窗-----pass
+2020-05-18 14:50:12,842 - root - INFO - 输入手机号码-----pass
+2020-05-18 14:50:15,958 - root - INFO - 点击基本套餐-----pass
+2020-05-18 14:50:18,005 - root - INFO - 点击回车键查询基本套餐-----pass
+2020-05-18 14:50:20,145 - root - INFO - 查询定位中输入内科-----pass
+2020-05-18 14:50:22,212 - root - INFO - 点击回车查询内科-----pass
+2020-05-18 14:50:25,291 - root - INFO - 双击选择内科-----pass
+2020-05-18 14:50:27,380 - root - INFO - 查询定位中输入肝功一项-----pass
+2020-05-18 14:50:29,433 - root - INFO - 点击回车查询肝功一项-----pass
+2020-05-18 14:50:32,551 - root - INFO - 双击选择肝功一项-----pass
+2020-05-18 14:50:34,591 - root - INFO - 滑动鼠标页面置顶-----pass
+2020-05-18 14:50:39,689 - root - INFO - 点击保存-----pass
+2020-05-18 14:50:42,822 - root - INFO - 点击确定-----pass
+2020-05-18 14:50:45,923 - root - INFO - 关闭提示-----pass
+2020-05-18 14:50:47,984 - root - INFO - 移动鼠标到收费管理-----pass
+2020-05-18 14:50:51,075 - root - INFO - 点击收费-----pass
+2020-05-18 14:50:53,283 - root - INFO - 检索栏输入体检号-----pass
+2020-05-18 14:50:56,429 - root - INFO - 点击搜索-----pass
+2020-05-18 14:50:59,516 - root - INFO - 双击打开收费页面-----pass
+2020-05-18 14:51:02,607 - root - INFO - 点击收费-----pass
+2020-05-18 14:51:05,685 - root - INFO - 点击选择支付方式打开下拉框-----pass
+2020-05-18 14:51:08,795 - root - INFO - 点击确认-----fail
+2020-05-18 14:51:08,820 - root - INFO - 未找到"//i[contains(@class,'el-message-box__close el-icon-close')]"点击事件的定位元素
+2020-05-18 14:51:08,844 - root - INFO - 点击关闭提示-----fail
+2020-05-18 14:51:08,845 - root - INFO - 用例结束时间:2020-05-18 14:51:08
+2020-05-18 14:51:08,845 - root - INFO - 用例通过条数31
+2020-05-18 14:51:08,845 - root - INFO - 用例失败条数：2
+2020-05-18 14:56:36,985 - root - INFO - 用例开始时间:2020-05-18 14:56:36
+2020-05-18 14:56:40,075 - root - INFO - 点击登记-----pass
+2020-05-18 14:56:43,219 - root - INFO - 点击展开客户类型-----pass
+2020-05-18 14:56:46,352 - root - INFO - 选择散客登记-----pass
+2020-05-18 14:56:48,592 - root - INFO - 输入姓名-----pass
+2020-05-18 14:56:51,761 - root - INFO - 点击展开证件类型-----pass
+2020-05-18 14:56:54,914 - root - INFO - 选择护照-----pass
+2020-05-18 14:56:57,223 - root - INFO - 输入证件号-----pass
+2020-05-18 14:57:00,378 - root - INFO - 点击展开性别-----pass
+2020-05-18 14:57:03,663 - root - INFO - 点击性别-----pass
+2020-05-18 14:57:05,869 - root - INFO - 输入出生日期-----pass
+2020-05-18 14:57:09,050 - root - INFO - 点击客户信息关闭时间弹窗-----pass
+2020-05-18 14:57:11,368 - root - INFO - 输入手机号码-----pass
+2020-05-18 14:57:14,477 - root - INFO - 点击基本套餐-----pass
+2020-05-18 14:57:16,500 - root - INFO - 点击回车键查询基本套餐-----pass
+2020-05-18 14:57:18,613 - root - INFO - 查询定位中输入内科-----pass
+2020-05-18 14:57:20,635 - root - INFO - 点击回车查询内科-----pass
+2020-05-18 14:57:23,740 - root - INFO - 双击选择内科-----pass
+2020-05-18 14:57:25,871 - root - INFO - 查询定位中输入肝功一项-----pass
+2020-05-18 14:57:27,898 - root - INFO - 点击回车查询肝功一项-----pass
+2020-05-18 14:57:30,992 - root - INFO - 双击选择肝功一项-----pass
+2020-05-18 14:57:33,019 - root - INFO - 滑动鼠标页面置顶-----pass
+2020-05-18 14:57:38,136 - root - INFO - 点击保存-----pass
+2020-05-18 14:57:41,272 - root - INFO - 点击确定-----pass
+2020-05-18 14:57:44,419 - root - INFO - 关闭提示-----pass
+2020-05-18 14:57:46,473 - root - INFO - 移动鼠标到收费管理-----pass
+2020-05-18 14:57:49,571 - root - INFO - 点击收费-----pass
+2020-05-18 14:57:51,753 - root - INFO - 检索栏输入体检号-----pass
+2020-05-18 14:57:54,873 - root - INFO - 点击搜索-----pass
+2020-05-18 14:57:57,932 - root - INFO - 双击打开收费页面-----pass
+2020-05-18 14:58:01,034 - root - INFO - 点击收费-----pass
+2020-05-18 14:58:04,119 - root - INFO - 点击选择支付方式打开下拉框-----pass
+2020-05-18 14:58:07,190 - root - INFO - 点击确认-----fail
+2020-05-18 14:58:07,210 - root - INFO - 未找到"//i[contains(@class,'el-message-box__close el-icon-close')]"点击事件的定位元素
+2020-05-18 14:58:07,234 - root - INFO - 点击关闭提示-----fail
+2020-05-18 14:58:07,234 - root - INFO - 用例结束时间:2020-05-18 14:58:07
+2020-05-18 14:58:07,234 - root - INFO - 用例通过条数31
+2020-05-18 14:58:07,235 - root - INFO - 用例失败条数：2
+2020-05-18 15:01:22,559 - root - INFO - 用例开始时间:2020-05-18 15:01:22
+2020-05-18 15:01:25,682 - root - INFO - 点击登记-----pass
+2020-05-18 15:01:28,827 - root - INFO - 点击展开客户类型-----pass
+2020-05-18 15:01:31,943 - root - INFO - 选择散客登记-----pass
+2020-05-18 15:01:34,145 - root - INFO - 输入姓名-----pass
+2020-05-18 15:01:37,286 - root - INFO - 点击展开证件类型-----pass
+2020-05-18 15:01:40,436 - root - INFO - 选择护照-----pass
+2020-05-18 15:01:42,718 - root - INFO - 输入证件号-----pass
+2020-05-18 15:01:45,870 - root - INFO - 点击展开性别-----pass
+2020-05-18 15:01:49,167 - root - INFO - 点击性别-----pass
+2020-05-18 15:01:51,389 - root - INFO - 输入出生日期-----pass
+2020-05-18 15:01:54,550 - root - INFO - 点击客户信息关闭时间弹窗-----pass
+2020-05-18 15:01:56,890 - root - INFO - 输入手机号码-----pass
+2020-05-18 15:01:59,997 - root - INFO - 点击基本套餐-----pass
+2020-05-18 15:02:02,021 - root - INFO - 点击回车键查询基本套餐-----pass
+2020-05-18 15:02:04,154 - root - INFO - 查询定位中输入内科-----pass
+2020-05-18 15:02:06,204 - root - INFO - 点击回车查询内科-----pass
+2020-05-18 15:02:09,281 - root - INFO - 双击选择内科-----pass
+2020-05-18 15:02:11,392 - root - INFO - 查询定位中输入肝功一项-----pass
+2020-05-18 15:02:13,424 - root - INFO - 点击回车查询肝功一项-----pass
+2020-05-18 15:02:16,478 - root - INFO - 双击选择肝功一项-----pass
+2020-05-18 15:02:18,516 - root - INFO - 滑动鼠标页面置顶-----pass
+2020-05-18 15:02:23,612 - root - INFO - 点击保存-----pass
+2020-05-18 15:02:26,732 - root - INFO - 点击确定-----pass
+2020-05-18 15:02:29,837 - root - INFO - 关闭提示-----pass
+2020-05-18 15:02:31,900 - root - INFO - 移动鼠标到收费管理-----pass
+2020-05-18 15:02:35,009 - root - INFO - 点击收费-----pass
+2020-05-18 15:02:37,207 - root - INFO - 检索栏输入体检号-----pass
+2020-05-18 15:02:40,345 - root - INFO - 点击搜索-----pass
+2020-05-18 15:02:43,412 - root - INFO - 双击打开收费页面-----pass
+2020-05-18 15:02:46,505 - root - INFO - 点击收费-----pass
+2020-05-18 15:02:49,605 - root - INFO - 点击选择支付方式打开下拉框-----pass
+2020-05-18 15:02:52,686 - root - INFO - 点击选择现金-----pass
+2020-05-18 15:02:55,793 - root - INFO - 点击确认-----fail
+2020-05-18 15:02:55,820 - root - INFO - 未找到"//i[contains(@class,'el-message-box__close el-icon-close')]"点击事件的定位元素
+2020-05-18 15:02:55,847 - root - INFO - 点击关闭提示-----fail
+2020-05-18 15:02:55,847 - root - INFO - 用例结束时间:2020-05-18 15:02:55
+2020-05-18 15:02:55,847 - root - INFO - 用例通过条数32
+2020-05-18 15:02:55,847 - root - INFO - 用例失败条数：2
+2020-05-18 15:09:27,091 - root - INFO - 用例开始时间:2020-05-18 15:09:27
+2020-05-18 15:09:31,181 - root - INFO - 点击登记-----pass
+2020-05-18 15:09:35,330 - root - INFO - 点击展开客户类型-----pass
+2020-05-18 15:09:39,485 - root - INFO - 选择散客登记-----pass
+2020-05-18 15:09:41,698 - root - INFO - 输入姓名-----pass
+2020-05-18 15:09:45,836 - root - INFO - 点击展开证件类型-----pass
+2020-05-18 15:09:49,972 - root - INFO - 选择护照-----pass
+2020-05-18 15:09:52,270 - root - INFO - 输入证件号-----pass
+2020-05-18 15:09:56,404 - root - INFO - 点击展开性别-----pass
+2020-05-18 15:10:00,697 - root - INFO - 点击性别-----pass
+2020-05-18 15:10:02,883 - root - INFO - 输入出生日期-----pass
+2020-05-18 15:10:06,990 - root - INFO - 点击客户信息关闭时间弹窗-----pass
+2020-05-18 15:10:09,334 - root - INFO - 输入手机号码-----pass
+2020-05-18 15:10:13,421 - root - INFO - 点击基本套餐-----pass
+2020-05-18 15:10:15,436 - root - INFO - 点击回车键查询基本套餐-----pass
+2020-05-18 15:10:17,550 - root - INFO - 查询定位中输入内科-----pass
+2020-05-18 15:10:19,582 - root - INFO - 点击回车查询内科-----pass
+2020-05-18 15:10:22,648 - root - INFO - 双击选择内科-----pass
+2020-05-18 15:10:24,741 - root - INFO - 查询定位中输入肝功一项-----pass
+2020-05-18 15:10:26,761 - root - INFO - 点击回车查询肝功一项-----pass
+2020-05-18 15:10:29,828 - root - INFO - 双击选择肝功一项-----pass
+2020-05-18 15:10:31,856 - root - INFO - 滑动鼠标页面置顶-----pass
+2020-05-18 15:10:36,931 - root - INFO - 点击保存-----pass
+2020-05-18 15:10:41,075 - root - INFO - 点击确定-----pass
+2020-05-18 15:10:45,175 - root - INFO - 关闭提示-----pass
+2020-05-18 15:10:47,255 - root - INFO - 移动鼠标到收费管理-----pass
+2020-05-18 15:10:51,345 - root - INFO - 点击收费-----pass
+2020-05-18 15:10:53,530 - root - INFO - 检索栏输入体检号-----pass
+2020-05-18 15:10:57,633 - root - INFO - 点击搜索-----pass
+2020-05-18 15:11:00,703 - root - INFO - 双击打开收费页面-----pass
+2020-05-18 15:11:04,802 - root - INFO - 点击收费-----pass
+2020-05-18 15:11:08,964 - root - INFO - 点击选择支付方式打开下拉框-----pass
+2020-05-18 15:11:13,053 - root - INFO - 点击选择现金-----pass
+2020-05-18 15:11:17,145 - root - INFO - 点击确认-----pass
+2020-05-18 15:11:21,231 - root - INFO - 点击关闭提示-----fail
+2020-05-18 15:11:21,231 - root - INFO - 用例结束时间:2020-05-18 15:11:21
+2020-05-18 15:11:21,231 - root - INFO - 用例通过条数33
+2020-05-18 15:11:21,232 - root - INFO - 用例失败条数：1
+2020-05-18 15:23:36,844 - root - INFO - 用例开始时间:2020-05-18 15:23:36
+2020-05-18 15:23:40,932 - root - INFO - 点击登记-----pass
+2020-05-18 15:23:45,078 - root - INFO - 点击展开客户类型-----pass
+2020-05-18 15:23:49,227 - root - INFO - 选择散客登记-----pass
+2020-05-18 15:23:51,445 - root - INFO - 输入姓名-----pass
+2020-05-18 15:23:55,580 - root - INFO - 点击展开证件类型-----pass
+2020-05-18 15:23:59,722 - root - INFO - 选择护照-----pass
+2020-05-18 15:24:02,019 - root - INFO - 输入证件号-----pass
+2020-05-18 15:24:06,140 - root - INFO - 点击展开性别-----pass
+2020-05-18 15:24:10,492 - root - INFO - 点击性别-----pass
+2020-05-18 15:24:12,678 - root - INFO - 输入出生日期-----pass
+2020-05-18 15:24:16,791 - root - INFO - 点击客户信息关闭时间弹窗-----pass
+2020-05-18 15:24:19,123 - root - INFO - 输入手机号码-----pass
+2020-05-18 15:24:23,203 - root - INFO - 点击基本套餐-----pass
+2020-05-18 15:24:25,218 - root - INFO - 点击回车键查询基本套餐-----pass
+2020-05-18 15:24:27,331 - root - INFO - 查询定位中输入内科-----pass
+2020-05-18 15:24:29,353 - root - INFO - 点击回车查询内科-----pass
+2020-05-18 15:24:32,414 - root - INFO - 双击选择内科-----pass
+2020-05-18 15:24:34,508 - root - INFO - 查询定位中输入肝功一项-----pass
+2020-05-18 15:24:36,526 - root - INFO - 点击回车查询肝功一项-----pass
+2020-05-18 15:24:39,578 - root - INFO - 双击选择肝功一项-----pass
+2020-05-18 15:24:41,602 - root - INFO - 滑动鼠标页面置顶-----pass
+2020-05-18 15:24:46,682 - root - INFO - 点击保存-----pass
+2020-05-18 15:24:50,819 - root - INFO - 点击确定-----pass
+2020-05-18 15:24:54,908 - root - INFO - 关闭提示-----pass
+2020-05-18 15:24:56,981 - root - INFO - 移动鼠标到收费管理-----pass
+2020-05-18 15:25:01,063 - root - INFO - 点击收费-----pass
+2020-05-18 15:25:03,243 - root - INFO - 检索栏输入体检号-----pass
+2020-05-18 15:25:07,331 - root - INFO - 点击搜索-----pass
+2020-05-18 15:25:10,401 - root - INFO - 双击打开收费页面-----pass
+2020-05-18 15:25:14,504 - root - INFO - 点击收费-----pass
+2020-05-18 15:25:18,585 - root - INFO - 点击选择支付方式打开下拉框-----pass
+2020-05-18 15:25:22,687 - root - INFO - 点击选择现金-----pass
+2020-05-18 15:25:26,774 - root - INFO - 点击确认-----pass
+2020-05-18 15:25:30,841 - root - INFO - 点击关闭提示-----pass
+2020-05-18 15:25:30,841 - root - INFO - 用例结束时间:2020-05-18 15:25:30
+2020-05-18 15:25:30,841 - root - INFO - 用例通过条数34
+2020-05-18 15:25:30,842 - root - INFO - 用例失败条数：0
+2020-05-18 16:41:49,049 - root - INFO - 未找到"//input[@placeholder='请选择二级组织']"点击事件的定位元素
+2020-05-18 16:41:49,078 - root - INFO - 未找到"//span[contains(text(),'北京区域' )]"点击事件的定位元素
+2020-05-18 16:41:49,142 - root - INFO - 未找到"//input[@placeholder='请选择三级组织']"点击事件的定位元素
+2020-05-18 16:41:49,184 - root - INFO - 未找到"//span[contains(text(),'北京公主坟分院' )]"点击事件的定位元素
+2020-05-18 16:41:49,338 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-18 16:41:49,379 - root - INFO - 未找到"//button[@type='button']"点击事件的定位元素
+2020-05-18 16:41:49,395 - root - INFO - 用例开始时间:2020-05-18 16:41:49
+2020-05-18 16:41:59,960 - root - INFO - 未找到"//span[text()='登记']"点击事件的定位元素
+2020-05-18 16:43:48,160 - root - INFO - 未找到"//span[contains(text(),'北京公主坟分院' )]"点击事件的定位元素
+2020-05-18 16:43:48,294 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-18 16:43:48,339 - root - INFO - 未找到"//button[@type='button']"点击事件的定位元素
+2020-05-18 16:43:48,353 - root - INFO - 用例开始时间:2020-05-18 16:43:48
+2020-05-18 16:43:54,679 - root - INFO - 未找到"//span[text()='登记']"点击事件的定位元素
+2020-05-18 16:43:54,685 - root - INFO - 未找到"//span[text()='登记']"点击事件的定位元素
+2020-05-18 16:43:54,690 - root - INFO - 未找到"//div[@class='title']//h3"定位的元素文本信息
+2020-05-18 16:43:54,691 - root - INFO - 点击登记-----exception
+2020-05-18 16:43:54,696 - root - INFO - 未找到"//div[@class='el-select el-tooltip']//div[1]//input"点击事件的定位元素
+2020-05-18 16:43:54,699 - root - INFO - 未找到"//div[@class='el-select el-tooltip']//div[1]//input"点击事件的定位元素
+2020-05-18 16:43:54,702 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='散客']"定位的元素文本信息
+2020-05-18 16:43:54,703 - root - INFO - 点击展开客户类型-----exception
+2020-05-18 16:43:54,705 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='散客']"点击事件的定位元素
+2020-05-18 16:43:54,708 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='散客']"点击事件的定位元素
+2020-05-18 16:43:54,710 - root - INFO - 未找到"//div[@class='el-select el-tooltip']//div[1]//input"定位的元素文本信息
+2020-05-18 16:43:54,710 - root - INFO - 选择散客登记-----exception
+2020-05-18 16:43:54,712 - root - INFO - 未找到"//input[@placeholder='回车查询预约单']"输入事件的定位元素
+2020-05-18 16:43:54,714 - root - INFO - 未找到"//input[@placeholder='回车查询预约单']"定位的元素文本信息
+2020-05-18 16:43:54,715 - root - INFO - 输入姓名-----exception
+2020-05-18 16:43:54,716 - root - INFO - 未找到"//div[3]//div[1]//div[1]//div[1]//div[1]//input[1]"点击事件的定位元素
+2020-05-18 16:43:54,718 - root - INFO - 未找到"//div[3]//div[1]//div[1]//div[1]//div[1]//input[1]"点击事件的定位元素
+2020-05-18 16:43:54,720 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='护照']"定位的元素文本信息
+2020-05-18 16:43:54,720 - root - INFO - 点击展开证件类型-----exception
+2020-05-18 16:43:54,721 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='护照']"点击事件的定位元素
+2020-05-18 16:43:54,723 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='护照']"点击事件的定位元素
+2020-05-18 16:43:54,724 - root - INFO - 未找到"//div[3]//div[1]//div[1]//div[1]//div[1]//input[1]"定位的元素文本信息
+2020-05-18 16:43:54,725 - root - INFO - 选择护照-----exception
+2020-05-18 16:43:54,726 - root - INFO - 未找到"//input[@placeholder='请输入证件号']"输入事件的定位元素
+2020-05-18 16:43:54,727 - root - INFO - 未找到"//input[@placeholder='请输入证件号']"定位的元素文本信息
+2020-05-18 16:43:54,728 - root - INFO - 输入证件号-----exception
+2020-05-18 16:43:54,729 - root - INFO - 未找到"//div[@class='main-content-box main-content-box']//div[6]//div[1]//div[1]//div[1]//div[1]//input[1]"点击事件的定位元素
+2020-05-18 16:43:54,730 - root - INFO - 未找到"//div[@class='main-content-box main-content-box']//div[6]//div[1]//div[1]//div[1]//div[1]//input[1]"点击事件的定位元素
+2020-05-18 16:43:54,732 - root - INFO - 未找到"//li//span[contains(text(),'男')]"定位的元素文本信息
+2020-05-18 16:43:54,732 - root - INFO - 点击展开性别-----exception
+2020-05-18 16:43:54,733 - root - INFO - 未找到"//li//span[contains(text(),'男')]"点击事件的定位元素
+2020-05-18 16:43:54,735 - root - INFO - 未找到"//li//span[contains(text(),'男')]"点击事件的定位元素
+2020-05-18 16:43:54,736 - root - INFO - 未找到"//div[@class='main-content-box main-content-box']//div[6]//div[1]//div[1]//div[1]//div[1]//input[1]"定位的元素文本信息
+2020-05-18 16:43:54,736 - root - INFO - 点击性别-----exception
+2020-05-18 16:43:54,737 - root - INFO - 未找到"//input[@placeholder='格式如:2000-01-01']"输入事件的定位元素
+2020-05-18 16:43:54,739 - root - INFO - 未找到"//input[@placeholder='格式如:2000-01-01']"定位的元素文本信息
+2020-05-18 16:43:54,739 - root - INFO - 输入出生日期-----exception
+2020-05-18 16:43:54,740 - root - INFO - 未找到"//div[contains(@class,'title')]//h3"点击事件的定位元素
+2020-05-18 16:43:54,741 - root - INFO - 未找到"//div[contains(@class,'title')]//h3"点击事件的定位元素
+2020-05-18 16:43:54,742 - root - INFO - 未找到"//div[@class='auto-page el-row']//div[14]//div[1]//label"定位的元素文本信息
+2020-05-18 16:43:54,743 - root - INFO - 点击客户信息关闭时间弹窗-----exception
+2020-05-18 16:43:54,744 - root - INFO - 未找到"//input[@placeholder='请输入手机号码']"输入事件的定位元素
+2020-05-18 16:43:54,745 - root - INFO - 未找到"//input[@placeholder='请输入手机号码']"定位的元素文本信息
+2020-05-18 16:43:54,745 - root - INFO - 输入手机号码-----exception
+2020-05-18 16:43:54,747 - root - INFO - 未找到"//div[contains(@class,'moreWidth el-input')]//input[contains(@class,'el-input__inner')]"点击事件的定位元素
+2020-05-18 16:43:54,748 - root - INFO - 未找到"//div[contains(@class,'moreWidth el-input')]//input[contains(@class,'el-input__inner')]"点击事件的定位元素
+2020-05-18 16:43:54,749 - root - INFO - 未找到"//div[@class='examInformation']//form//div[3]//label[contains(text(),'基本套餐')]"定位的元素文本信息
+2020-05-18 16:43:54,749 - root - INFO - 点击基本套餐-----exception
+2020-05-18 16:45:19,169 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-18 16:45:19,209 - root - INFO - 未找到"//button[@type='button']"点击事件的定位元素
+2020-05-18 16:45:19,223 - root - INFO - 用例开始时间:2020-05-18 16:45:19
+2020-05-18 16:45:29,752 - root - INFO - 未找到"//span[text()='登记']"点击事件的定位元素
+2020-05-18 16:45:39,769 - root - INFO - 未找到"//span[text()='登记']"点击事件的定位元素
+2020-05-18 16:45:49,834 - root - INFO - 未找到"//div[@class='title']//h3"定位的元素文本信息
+2020-05-18 16:45:49,834 - root - INFO - 点击登记-----exception
+2020-05-18 16:46:00,354 - root - INFO - 未找到"//div[@class='el-select el-tooltip']//div[1]//input"点击事件的定位元素
+2020-05-18 16:46:10,413 - root - INFO - 未找到"//div[@class='el-select el-tooltip']//div[1]//input"点击事件的定位元素
+2020-05-18 16:46:20,429 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='散客']"定位的元素文本信息
+2020-05-18 16:46:20,429 - root - INFO - 点击展开客户类型-----exception
+2020-05-18 16:46:30,955 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='散客']"点击事件的定位元素
+2020-05-18 16:46:41,011 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='散客']"点击事件的定位元素
+2020-05-18 16:46:51,072 - root - INFO - 未找到"//div[@class='el-select el-tooltip']//div[1]//input"定位的元素文本信息
+2020-05-18 16:46:51,072 - root - INFO - 选择散客登记-----exception
+2020-05-18 16:47:01,117 - root - INFO - 未找到"//input[@placeholder='回车查询预约单']"输入事件的定位元素
+2020-05-18 16:52:28,250 - root - INFO - 用例开始时间:2020-05-18 16:52:28
+2020-05-18 16:52:32,384 - root - INFO - 点击登记-----pass
+2020-05-18 16:52:36,532 - root - INFO - 点击展开客户类型-----pass
+2020-05-18 16:52:40,671 - root - INFO - 选择散客登记-----pass
+2020-05-18 16:52:42,959 - root - INFO - 输入姓名-----pass
+2020-05-18 16:52:47,125 - root - INFO - 点击展开证件类型-----pass
+2020-05-18 16:52:51,293 - root - INFO - 选择护照-----pass
+2020-05-18 16:52:53,590 - root - INFO - 输入证件号-----pass
+2020-05-18 16:52:57,717 - root - INFO - 点击展开性别-----pass
+2020-05-18 16:53:02,014 - root - INFO - 点击性别-----pass
+2020-05-18 16:53:04,203 - root - INFO - 输入出生日期-----pass
+2020-05-18 16:53:08,311 - root - INFO - 点击客户信息关闭时间弹窗-----pass
+2020-05-18 16:53:10,663 - root - INFO - 输入手机号码-----pass
+2020-05-18 16:53:14,766 - root - INFO - 点击基本套餐-----pass
+2020-05-18 16:53:16,784 - root - INFO - 点击回车键查询基本套餐-----fail
+2020-05-18 16:53:18,897 - root - INFO - 查询定位中输入内科-----pass
+2020-05-18 16:53:20,955 - root - INFO - 点击回车查询内科-----pass
+2020-05-18 16:55:28,359 - root - INFO - 用例开始时间:2020-05-18 16:55:28
+2020-05-18 17:02:49,149 - root - INFO - 用例开始时间:2020-05-18 17:02:49
+2020-05-18 17:02:53,278 - root - INFO - 点击登记-----pass
+2020-05-18 17:02:57,432 - root - INFO - 点击展开客户类型-----pass
+2020-05-18 17:03:01,557 - root - INFO - 选择散客登记-----pass
+2020-05-18 17:03:03,765 - root - INFO - 输入姓名-----pass
+2020-05-18 17:03:07,951 - root - INFO - 点击展开证件类型-----pass
+2020-05-18 17:03:12,087 - root - INFO - 选择护照-----pass
+2020-05-18 17:03:14,388 - root - INFO - 输入证件号-----pass
+2020-05-18 17:03:18,523 - root - INFO - 点击展开性别-----pass
+2020-05-18 17:03:22,834 - root - INFO - 点击性别-----pass
+2020-05-18 17:03:25,026 - root - INFO - 输入出生日期-----pass
+2020-05-18 17:03:29,128 - root - INFO - 点击客户信息关闭时间弹窗-----pass
+2020-05-18 17:03:31,471 - root - INFO - 输入手机号码-----pass
+2020-05-18 17:09:49,286 - root - INFO - 用例开始时间:2020-05-18 17:09:49
+2020-05-18 17:09:53,385 - root - INFO - 点击登记-----pass
+2020-05-18 17:09:57,560 - root - INFO - 点击展开客户类型-----pass
+2020-05-18 17:10:01,680 - root - INFO - 选择散客登记-----pass
+2020-05-18 17:10:03,878 - root - INFO - 输入姓名-----pass
+2020-05-18 17:10:08,063 - root - INFO - 点击展开证件类型-----pass
+2020-05-18 17:10:12,177 - root - INFO - 选择护照-----pass
+2020-05-18 17:10:14,475 - root - INFO - 输入证件号-----pass
+2020-05-18 17:10:18,630 - root - INFO - 点击展开性别-----pass
+2020-05-18 17:10:22,951 - root - INFO - 点击性别-----pass
+2020-05-18 17:10:25,135 - root - INFO - 输入出生日期-----pass
+2020-05-18 17:10:29,254 - root - INFO - 点击客户信息关闭时间弹窗-----pass
+2020-05-18 17:10:31,590 - root - INFO - 输入手机号码-----pass
+2020-05-18 17:10:35,720 - root - INFO - 点击基本套餐-----pass
+2020-05-18 17:10:37,734 - root - INFO - 点击回车键查询基本套餐-----fail
+2020-05-18 17:10:39,857 - root - INFO - 查询定位中输入内科-----pass
+2020-05-18 17:10:41,905 - root - INFO - 点击回车查询内科-----pass
+2020-05-18 17:10:55,025 - root - INFO - 未找到"//td[@class='el-table_4_column_30   ']//div[@class='cell' and contains(text(),'内科')]"定位的元素文本信息
+2020-05-18 17:10:55,025 - root - INFO - 双击选择内科-----exception
+2020-05-18 17:10:57,170 - root - INFO - 查询定位中输入肝功一项-----pass
+2020-05-18 17:10:59,202 - root - INFO - 点击回车查询肝功一项-----pass
+2020-05-18 17:11:12,312 - root - INFO - 未找到"//div[@class='cell' and contains(text(),'肝功一项')]"定位的元素文本信息
+2020-05-18 17:11:12,313 - root - INFO - 双击选择肝功一项-----exception
+2020-05-18 17:11:14,344 - root - INFO - 滑动鼠标页面置顶-----pass
+2020-05-18 17:51:02,635 - root - INFO - 用例开始时间:2020-05-18 17:51:02
+2020-05-18 17:51:06,735 - root - INFO - 点击登记-----pass
+2020-05-18 17:52:34,976 - root - INFO - 未找到"//input[@placeholder='请选择二级组织']"点击事件的定位元素
+2020-05-18 17:52:35,560 - root - INFO - 未找到"//span[contains(text(),'德阳区域' )]"点击事件的定位元素
+2020-05-18 17:52:45,632 - root - INFO - 未找到"//input[@placeholder='请选择三级组织']"点击事件的定位元素
+2020-05-18 17:52:45,645 - root - INFO - 未找到"//span[contains(text(),'爱康国宾德阳文庙广场文华楼分院' )]"点击事件的定位元素
+2020-05-18 17:52:45,648 - root - INFO - 未找到"//input[@placeholder='请输入账号']"输入事件的定位元素
+2020-05-18 17:52:45,649 - root - INFO - 未找到"//input[@placeholder='请选择角色']"点击事件的定位元素
+2020-05-18 17:52:45,649 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:1894/session/cab3d644bc623dd98f74263a11827f13/element {"using": "xpath", "value": "//input[@placeholder='\u8bf7\u8f93\u5165\u5bc6\u7801']", "sessionId": "cab3d644bc623dd98f74263a11827f13"}
+2020-05-18 17:52:45,669 - root - INFO - 未找到"//input[@placeholder='请输入密码']"输入事件的定位元素
+2020-05-18 17:52:45,672 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-18 17:52:45,676 - root - INFO - 未找到"//button[@type='button']"点击事件的定位元素
+2020-05-18 17:52:45,676 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-18 17:52:45,677 - root - INFO - 未找到"//button[@type='button']"点击事件的定位元素
+2020-05-18 17:52:45,679 - root - INFO - 未找到"//input[@placeholder='请选择二级组织']"点击事件的定位元素
+2020-05-18 17:52:45,681 - root - INFO - 未找到"//span[contains(text(),'浙江区域' )]"点击事件的定位元素
+2020-05-18 17:52:45,697 - root - INFO - 未找到"//input[@placeholder='请选择三级组织']"点击事件的定位元素
+2020-05-18 17:52:45,706 - root - INFO - 用例开始时间:2020-05-18 17:52:45
+2020-05-18 17:52:45,708 - root - INFO - 未找到"//span[contains(text(),'杭州文晖分院' )]"点击事件的定位元素
+2020-05-18 17:52:45,710 - root - INFO - 未找到"//span[text()='登记']"点击事件的定位元素
+2020-05-18 17:52:45,710 - root - INFO - 未找到"//input[@placeholder='请选择角色']"点击事件的定位元素
+2020-05-18 17:52:45,710 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:1894/session/cab3d644bc623dd98f74263a11827f13/element {"using": "xpath", "value": "//div[@class='title']//h3", "sessionId": "cab3d644bc623dd98f74263a11827f13"}
+2020-05-18 17:52:45,712 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-18 17:52:45,713 - root - INFO - 未找到"//div[@class='title']//h3"定位的元素文本信息
+2020-05-18 17:52:45,713 - root - INFO - 点击登记-----exception
+2020-05-18 17:52:45,713 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-18 17:52:45,714 - root - INFO - 未找到"//button[@type='button']"点击事件的定位元素
+2020-05-18 17:52:45,720 - root - INFO - 未找到"//div[@class='el-select el-tooltip']//div[1]//input"点击事件的定位元素
+2020-05-18 17:52:45,727 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='散客']"定位的元素文本信息
+2020-05-18 17:52:45,732 - root - INFO - 点击展开客户类型-----exception
+2020-05-18 17:52:45,733 - root - INFO - 用例开始时间:2020-05-18 17:52:45
+2020-05-18 17:52:45,739 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='散客']"点击事件的定位元素
+2020-05-18 17:52:45,740 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-18 17:52:45,740 - root - INFO - 未找到"//span[text()='登记']"点击事件的定位元素
+2020-05-18 17:52:45,741 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:1894/session/cab3d644bc623dd98f74263a11827f13/element {"using": "xpath", "value": "//div[@class='el-select el-tooltip']//div[1]//input", "sessionId": "cab3d644bc623dd98f74263a11827f13"}
+2020-05-18 17:52:45,743 - root - INFO - 未找到"//div[@class='el-select el-tooltip']//div[1]//input"定位的元素文本信息
+2020-05-18 17:52:45,743 - root - INFO - 未找到"//div[@class='title']//h3"定位的元素文本信息
+2020-05-18 17:52:45,743 - root - INFO - 点击登记-----exception
+2020-05-18 17:52:45,743 - root - INFO - 选择散客登记-----exception
+2020-05-18 17:52:45,743 - root - INFO - 点击登记-----exception
+2020-05-18 17:52:45,745 - root - INFO - 未找到"//div[@class='el-select el-tooltip']//div[1]//input"点击事件的定位元素
+2020-05-18 17:52:45,746 - root - INFO - 未找到"//input[@placeholder='回车查询预约单']"输入事件的定位元素
+2020-05-18 17:52:45,747 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='散客']"定位的元素文本信息
+2020-05-18 17:52:45,747 - root - INFO - 未找到"//input[@placeholder='回车查询预约单']"定位的元素文本信息
+2020-05-18 17:52:45,748 - root - INFO - 点击展开客户类型-----exception
+2020-05-18 17:52:45,748 - root - INFO - 输入姓名-----exception
+2020-05-18 17:52:45,749 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='散客']"点击事件的定位元素
+2020-05-18 17:52:45,753 - root - INFO - 未找到"//div[3]//div[1]//div[1]//div[1]//div[1]//input[1]"点击事件的定位元素
+2020-05-18 17:52:45,753 - root - INFO - 未找到"//div[@class='el-select el-tooltip']//div[1]//input"定位的元素文本信息
+2020-05-18 17:52:45,753 - root - INFO - 未找到"//div[3]//div[1]//div[1]//div[1]//div[1]//input[1]"点击事件的定位元素
+2020-05-18 17:52:45,753 - root - INFO - 未找到"//div[@class='el-select el-tooltip']//div[1]//input"定位的元素文本信息
+2020-05-18 17:52:45,755 - root - INFO - 选择散客登记-----exception
+2020-05-18 17:52:45,756 - urllib3.connectionpool - DEBUG - http://127.0.0.1:1894 "POST /session/cab3d644bc623dd98f74263a11827f13/element HTTP/1.1" 200 332
+2020-05-18 17:52:45,757 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='护照']"定位的元素文本信息
+2020-05-18 17:52:45,757 - root - INFO - 未找到"//input[@placeholder='回车查询预约单']"输入事件的定位元素
+2020-05-18 17:52:45,757 - root - INFO - 点击展开证件类型-----exception
+2020-05-18 17:52:45,757 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:1894/session/cab3d644bc623dd98f74263a11827f13/element {"using": "xpath", "value": "//input[@placeholder='\u56de\u8f66\u67e5\u8be2\u9884\u7ea6\u5355']", "sessionId": "cab3d644bc623dd98f74263a11827f13"}
+2020-05-18 17:52:45,759 - root - INFO - 未找到"//input[@placeholder='回车查询预约单']"定位的元素文本信息
+2020-05-18 17:52:45,760 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='护照']"点击事件的定位元素
+2020-05-18 17:52:45,760 - root - INFO - 输入姓名-----exception
+2020-05-18 17:52:45,761 - root - INFO - 未找到"//div[3]//div[1]//div[1]//div[1]//div[1]//input[1]"定位的元素文本信息
+2020-05-18 17:52:45,762 - root - INFO - 选择护照-----exception
+2020-05-18 17:52:45,762 - urllib3.connectionpool - DEBUG - http://127.0.0.1:1894 "POST /session/cab3d644bc623dd98f74263a11827f13/element HTTP/1.1" 200 332
+2020-05-18 17:52:45,763 - root - INFO - 未找到"//div[3]//div[1]//div[1]//div[1]//div[1]//input[1]"点击事件的定位元素
+2020-05-18 17:52:45,764 - root - INFO - 未找到"//input[@placeholder='请输入证件号']"输入事件的定位元素
+2020-05-18 17:52:45,764 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='护照']"定位的元素文本信息
+2020-05-18 17:52:45,765 - root - INFO - 未找到"//input[@placeholder='请输入证件号']"定位的元素文本信息
+2020-05-18 17:52:45,765 - root - INFO - 点击展开证件类型-----exception
+2020-05-18 17:52:45,766 - root - INFO - 输入证件号-----exception
+2020-05-18 17:52:45,768 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='护照']"点击事件的定位元素
+2020-05-18 17:52:45,771 - root - INFO - 未找到"//div[@class='main-content-box main-content-box']//div[6]//div[1]//div[1]//div[1]//div[1]//input[1]"点击事件的定位元素
+2020-05-18 17:52:45,773 - root - INFO - 未找到"//div[3]//div[1]//div[1]//div[1]//div[1]//input[1]"定位的元素文本信息
+2020-05-18 17:52:45,773 - root - INFO - 未找到"//li//span[contains(text(),'男')]"定位的元素文本信息
+2020-05-18 17:52:45,773 - root - INFO - 选择护照-----exception
+2020-05-18 17:52:45,774 - root - INFO - 点击展开性别-----exception
+2020-05-18 17:52:45,775 - root - INFO - 未找到"//input[@placeholder='请输入证件号']"输入事件的定位元素
+2020-05-18 17:52:45,776 - root - INFO - 未找到"//li//span[contains(text(),'男')]"点击事件的定位元素
+2020-05-18 17:52:45,777 - root - INFO - 未找到"//input[@placeholder='请输入证件号']"定位的元素文本信息
+2020-05-18 17:52:45,778 - root - INFO - 未找到"//div[@class='main-content-box main-content-box']//div[6]//div[1]//div[1]//div[1]//div[1]//input[1]"定位的元素文本信息
+2020-05-18 17:52:45,778 - root - INFO - 输入证件号-----exception
+2020-05-18 17:52:45,778 - root - INFO - 点击性别-----exception
+2020-05-18 17:52:45,779 - root - INFO - 未找到"//div[@class='main-content-box main-content-box']//div[6]//div[1]//div[1]//div[1]//div[1]//input[1]"点击事件的定位元素
+2020-05-18 17:52:45,780 - root - INFO - 未找到"//input[@placeholder='格式如:2000-01-01']"输入事件的定位元素
+2020-05-18 17:52:45,781 - root - INFO - 未找到"//li//span[contains(text(),'男')]"定位的元素文本信息
+2020-05-18 17:52:45,782 - root - INFO - 未找到"//input[@placeholder='格式如:2000-01-01']"定位的元素文本信息
+2020-05-18 17:52:45,782 - root - INFO - 点击展开性别-----exception
+2020-05-18 17:52:45,783 - root - INFO - 输入出生日期-----exception
+2020-05-18 17:52:45,784 - root - INFO - 未找到"//li//span[contains(text(),'男')]"点击事件的定位元素
+2020-05-18 17:52:45,787 - root - INFO - 未找到"//div[contains(@class,'title')]//h3"点击事件的定位元素
+2020-05-18 17:52:45,788 - root - INFO - 未找到"//div[@class='main-content-box main-content-box']//div[6]//div[1]//div[1]//div[1]//div[1]//input[1]"定位的元素文本信息
+2020-05-18 17:52:45,789 - root - INFO - 点击性别-----exception
+2020-05-18 17:52:45,789 - root - INFO - 未找到"//div[@class='auto-page el-row']//div[14]//div[1]//label"定位的元素文本信息
+2020-05-18 17:52:45,789 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:1894/session/cab3d644bc623dd98f74263a11827f13/element {"using": "xpath", "value": "//input[@placeholder='\u683c\u5f0f\u5982:2000-01-01']", "sessionId": "cab3d644bc623dd98f74263a11827f13"}
+2020-05-18 17:52:45,790 - root - INFO - 点击客户信息关闭时间弹窗-----exception
+2020-05-18 17:52:45,790 - urllib3.connectionpool - DEBUG - http://127.0.0.1:1894 "POST /session/cab3d644bc623dd98f74263a11827f13/element HTTP/1.1" 200 332
+2020-05-18 17:52:45,791 - root - INFO - 未找到"//input[@placeholder='格式如:2000-01-01']"输入事件的定位元素
+2020-05-18 17:52:45,792 - root - INFO - 未找到"//input[@placeholder='请输入手机号码']"输入事件的定位元素
+2020-05-18 17:52:45,793 - root - INFO - 未找到"//input[@placeholder='格式如:2000-01-01']"定位的元素文本信息
+2020-05-18 17:52:45,793 - root - INFO - 未找到"//input[@placeholder='请输入手机号码']"定位的元素文本信息
+2020-05-18 17:52:45,793 - root - INFO - 输入出生日期-----exception
+2020-05-18 17:52:45,794 - root - INFO - 输入手机号码-----exception
+2020-05-18 17:52:45,795 - root - INFO - 未找到"//div[contains(@class,'title')]//h3"点击事件的定位元素
+2020-05-18 17:52:45,796 - root - INFO - 未找到"//div[contains(@class,'moreWidth el-input')]//input[contains(@class,'el-input__inner')]"点击事件的定位元素
+2020-05-18 17:52:45,797 - root - INFO - 未找到"//div[@class='auto-page el-row']//div[14]//div[1]//label"定位的元素文本信息
+2020-05-18 17:52:45,797 - root - INFO - 未找到"//div[@class='examInformation']//form//div[3]//label[contains(text(),'基本套餐')]"定位的元素文本信息
+2020-05-18 17:52:45,798 - root - INFO - 点击客户信息关闭时间弹窗-----exception
+2020-05-18 17:52:45,798 - root - INFO - 点击基本套餐-----exception
+2020-05-18 17:52:45,799 - root - INFO - 未找到"//input[@placeholder='请输入手机号码']"输入事件的定位元素
+2020-05-18 17:52:45,800 - root - INFO - 未找到"//input[@placeholder='请输入手机号码']"定位的元素文本信息
+2020-05-18 17:52:45,801 - root - INFO - 输入手机号码-----exception
+2020-05-18 17:52:45,803 - root - INFO - 未找到"//div[contains(@class,'moreWidth el-input')]//input[contains(@class,'el-input__inner')]"点击事件的定位元素
+2020-05-18 17:52:45,805 - root - INFO - 未找到"//div[@class='examInformation']//form//div[3]//label[contains(text(),'基本套餐')]"定位的元素文本信息
+2020-05-18 17:52:45,805 - root - INFO - 点击基本套餐-----exception
+2020-05-18 17:52:47,803 - root - INFO - 未找到"//div[contains(@class,'moreWidth el-input')]//input[contains(@class,'el-input__inner')]"定位的元素文本信息
+2020-05-18 17:52:47,803 - root - INFO - 点击回车键查询基本套餐-----exception
+2020-05-18 17:52:47,805 - root - INFO - 未找到"//input[@placeholder='可通过项目首字母检索']"输入事件的定位元素
+2020-05-18 17:52:47,807 - root - INFO - 未找到"//input[@placeholder='可通过项目首字母检索']"定位的元素文本信息
+2020-05-18 17:52:47,808 - root - INFO - 查询定位中输入内科-----exception
+2020-05-18 17:52:47,809 - root - INFO - 未找到"//div[contains(@class,'moreWidth el-input')]//input[contains(@class,'el-input__inner')]"定位的元素文本信息
+2020-05-18 17:52:47,809 - root - INFO - 点击回车键查询基本套餐-----exception
+2020-05-18 17:52:47,811 - root - INFO - 未找到"//input[@placeholder='可通过项目首字母检索']"输入事件的定位元素
+2020-05-18 17:52:47,812 - root - INFO - 未找到"//input[@placeholder='可通过项目首字母检索']"定位的元素文本信息
+2020-05-18 17:52:47,813 - root - INFO - 查询定位中输入内科-----exception

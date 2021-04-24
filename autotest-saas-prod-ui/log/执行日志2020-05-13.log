@@ -1,0 +1,66 @@
+2020-05-13 08:00:12,267 - root - INFO - 未找到"//span[text()='登记']"点击事件的定位元素
+2020-05-13 08:00:22,320 - root - INFO - 未找到"//div[@class='title']//h3"定位的元素文本信息
+2020-05-13 08:05:38,002 - root - INFO - 未找到"//span[text()='登记']"点击事件的定位元素
+2020-05-13 08:05:46,018 - root - INFO - 未找到"//div[@class='title']//h3"定位的元素文本信息
+2020-05-13 10:33:47,913 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='散客']"点击事件的定位元素
+2020-05-13 10:59:14,980 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-13 11:15:29,210 - root - INFO - 未找到"//span[contains(text(),'爱康君安标准生命' )]"点击事件的定位元素
+2020-05-13 11:15:29,247 - root - INFO - 未找到"//input[@placeholder='请选择角色']"点击事件的定位元素
+2020-05-13 11:15:29,267 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-13 11:17:00,735 - root - INFO - 未找到"//div[@class='el-scrollbar']//div[1]//ul[1]//li[2]//span[text()='散客']"定位的元素文本信息
+2020-05-13 11:19:14,767 - root - INFO - 未找到"//input[@placeholder='请选择二级组织']"点击事件的定位元素
+2020-05-13 11:19:20,358 - root - INFO - 未找到"//input[@placeholder='请选择二级组织']"点击事件的定位元素
+2020-05-13 11:19:34,376 - root - INFO - 未找到"//span[contains(text(),'德阳区域' )]"点击事件的定位元素
+2020-05-13 11:19:48,391 - root - INFO - 未找到"//span[contains(text(),'浙江区域' )]"点击事件的定位元素
+2020-05-13 11:20:02,404 - root - INFO - 未找到"//input[@placeholder='请选择三级组织']"点击事件的定位元素
+2020-05-13 11:20:16,418 - root - INFO - 未找到"//input[@placeholder='请选择三级组织']"点击事件的定位元素
+2020-05-13 11:20:30,429 - root - INFO - 未找到"//span[contains(text(),'爱康国宾德阳文庙广场文华楼分院' )]"点击事件的定位元素
+2020-05-13 11:20:44,443 - root - INFO - 未找到"//span[contains(text(),'杭州文晖分院' )]"点击事件的定位元素
+2020-05-13 11:20:58,462 - root - INFO - 未找到"//input[@placeholder='请选择角色']"点击事件的定位元素
+2020-05-13 11:21:12,472 - root - INFO - 未找到"//input[@placeholder='请选择角色']"点击事件的定位元素
+2020-05-13 11:21:26,483 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-13 11:21:39,148 - root - INFO - 未找到"//span[contains(text(),'浙江区域' )]"点击事件的定位元素
+2020-05-13 11:22:44,523 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-13 11:22:58,307 - root - INFO - 未找到"//span[text()='登记']"点击事件的定位元素
+2020-05-13 14:23:13,552 - root - INFO - 未找到"//input[@placeholder='请选择二级组织']"点击事件的定位元素
+2020-05-13 14:23:14,227 - root - INFO - 未找到"//span[contains(text(),'浙江区域' )]"点击事件的定位元素
+2020-05-13 14:23:24,248 - root - INFO - 未找到"//input[@placeholder='请选择三级组织']"点击事件的定位元素
+2020-05-13 14:23:30,697 - root - INFO - 未找到"//span[contains(text(),'杭州文晖分院' )]"点击事件的定位元素
+2020-05-13 14:23:30,698 - root - INFO - 未找到"//input[@placeholder='请输入账号']"输入事件的定位元素
+2020-05-13 14:23:30,697 - root - INFO - 未找到"//span[contains(text(),'杭州文晖分院' )]"点击事件的定位元素
+2020-05-13 14:23:30,698 - root - INFO - 未找到"//input[@placeholder='请输入账号']"输入事件的定位元素
+2020-05-13 14:23:30,706 - root - INFO - 未找到"//input[@placeholder='请输入密码']"输入事件的定位元素
+2020-05-13 14:23:30,707 - root - INFO - 未找到"//input[@placeholder='请选择角色']"点击事件的定位元素
+2020-05-13 14:23:30,706 - root - INFO - 未找到"//input[@placeholder='请输入密码']"输入事件的定位元素
+2020-05-13 14:23:30,715 - root - INFO - 未找到"//button[@type='button']"点击事件的定位元素
+2020-05-13 14:23:30,717 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-13 14:23:30,718 - root - INFO - 未找到"//input[@placeholder='请选择二级组织']"点击事件的定位元素
+2020-05-13 14:23:30,721 - root - INFO - 未找到"//button[@type='button']"点击事件的定位元素
+2020-05-13 14:23:30,721 - root - INFO - 未找到"//span[contains(text(),'德阳区域' )]"点击事件的定位元素
+2020-05-13 14:23:30,723 - root - INFO - 未找到"//input[@placeholder='请选择三级组织']"点击事件的定位元素
+2020-05-13 14:23:30,725 - root - INFO - 未找到"//span[contains(text(),'爱康国宾德阳文庙广场文华楼分院' )]"点击事件的定位元素
+2020-05-13 14:23:30,727 - root - INFO - 未找到"//input[@placeholder='请选择角色']"点击事件的定位元素
+2020-05-13 14:23:30,736 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-13 14:23:30,743 - root - INFO - 未找到"//button[@type='button']"点击事件的定位元素
+2020-05-13 14:23:30,756 - root - INFO - 未找到"//span[text()='登记']"点击事件的定位元素
+2020-05-13 14:23:30,761 - root - INFO - 未找到"//div[@class='title']//h3"定位的元素文本信息
+2020-05-13 14:23:30,764 - root - INFO - 未找到"//span[text()='登记']"点击事件的定位元素
+2020-05-13 14:23:30,769 - root - INFO - 未找到"//div[@class='title']//h3"定位的元素文本信息
+2020-05-13 17:31:06,396 - root - INFO - 未找到"//input[@placeholder='请选择二级组织']"点击事件的定位元素
+2020-05-13 17:31:06,961 - root - INFO - 未找到"//span[contains(text(),'德阳区域' )]"点击事件的定位元素
+2020-05-13 17:31:06,962 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-05-13 17:31:16,989 - root - INFO - 未找到"//input[@placeholder='请选择三级组织']"点击事件的定位元素
+2020-05-13 17:31:27,019 - root - INFO - 未找到"//span[contains(text(),'爱康国宾德阳文庙广场文华楼分院' )]"点击事件的定位元素
+2020-05-13 17:31:37,072 - root - INFO - 未找到"//input[@placeholder='请选择角色']"点击事件的定位元素
+2020-05-13 17:31:47,121 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-13 17:32:09,404 - root - INFO - 未找到"//span[text()='登记']"点击事件的定位元素
+2020-05-13 17:38:36,388 - root - INFO - 未找到"//input[@placeholder='请选择三级组织']"点击事件的定位元素
+2020-05-13 17:38:50,401 - root - INFO - 未找到"//span[contains(text(),'杭州文晖分院' )]"点击事件的定位元素
+2020-05-13 17:39:03,174 - root - INFO - 未找到"//input[@placeholder='请选择二级组织']"点击事件的定位元素
+2020-05-13 17:39:03,799 - root - INFO - 未找到"//span[contains(text(),'德阳区域' )]"点击事件的定位元素
+2020-05-13 17:39:04,417 - root - INFO - 未找到"//input[@placeholder='请选择角色']"点击事件的定位元素
+2020-05-13 17:39:13,868 - root - INFO - 未找到"//input[@placeholder='请选择三级组织']"点击事件的定位元素
+2020-05-13 17:39:18,431 - root - INFO - 未找到"//span[contains(text(), '分院IT')]"点击事件的定位元素
+2020-05-13 17:39:32,448 - root - INFO - 未找到"//button[@type='button']"点击事件的定位元素
+2020-05-13 17:39:46,480 - root - INFO - 未找到"//span[text()='登记']"点击事件的定位元素
+2020-05-13 17:40:00,497 - root - INFO - 未找到"//div[@class='title']//h3"定位的元素文本信息
