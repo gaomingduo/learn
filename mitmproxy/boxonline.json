@@ -1,0 +1,127 @@
+{
+	"code": 1,
+	"msg": "success",
+	"data": {
+		"lucky_history": [{
+			"player_id": 3103399,
+			"message_id": 1616614808664000,
+			"created_at": "2021-03-25 00:00:00",
+			"lucky": "-50000.00",
+			"record_id": "",
+			"remark": "1111111每日扣减1111"
+		}, {
+			"player_id": 3103399,
+			"message_id": 1616401101594000,
+			"created_at": "2021-03-22 16:18:21",
+			"lucky": "5.00",
+			"record_id": "",
+			"remark": "7日签到(第1天)"
+		}, {
+			"player_id": 3103399,
+			"message_id": 1616097039942000,
+			"created_at": "2021-03-19 00:00:00",
+			"lucky": "-5.00",
+			"record_id": "",
+			"remark": "每日扣减"
+		}, {
+			"player_id": 3103399,
+			"message_id": 1616042798250000,
+			"created_at": "2021-03-18 12:46:38",
+			"lucky": "5.00",
+			"record_id": "",
+			"remark": "7日签到(第1天)"
+		}, {
+			"player_id": 3103399,
+			"message_id": 1614368925011000,
+			"created_at": "2021-02-27 00:00:00",
+			"lucky": "-2.00",
+			"record_id": "",
+			"remark": "每日扣减"
+		}, {
+			"player_id": 3103399,
+			"message_id": 1614281819549000,
+			"created_at": "2021-02-26 00:00:00",
+			"lucky": "-10.00",
+			"record_id": "",
+			"remark": "每日扣减"
+		}, {
+			"player_id": 3103399,
+			"message_id": 1614237655422000,
+			"created_at": "2021-02-25 15:20:55",
+			"lucky": "3.00",
+			"record_id": "",
+			"remark": "试手气"
+		}, {
+			"player_id": 3103399,
+			"message_id": 1614237649992000,
+			"created_at": "2021-02-25 15:20:49",
+			"lucky": "3.00",
+			"record_id": "",
+			"remark": "试手气"
+		}, {
+			"player_id": 3103399,
+			"message_id": 1614237644234000,
+			"created_at": "2021-02-25 15:20:44",
+			"lucky": "3.00",
+			"record_id": "",
+			"remark": "试手气"
+		}, {
+			"player_id": 3103399,
+			"message_id": 1614237543087000,
+			"created_at": "2021-02-25 15:19:03",
+			"lucky": "3.00",
+			"record_id": "",
+			"remark": "试手气"
+		}, {
+			"player_id": 3103399,
+			"message_id": 1612628115646972,
+			"created_at": "2020-12-16 00:00:00",
+			"lucky": "-2.00",
+			"record_id": "",
+			"remark": "每日扣减"
+		}, {
+			"player_id": 3103399,
+			"message_id": 1612627124603972,
+			"created_at": "2020-08-05 00:00:00",
+			"lucky": "-10.00",
+			"record_id": "",
+			"remark": "每日扣减"
+		}, {
+			"player_id": 3103399,
+			"message_id": 1612625107954984,
+			"created_at": "2020-07-23 10:29:15",
+			"lucky": "1.00",
+			"record_id": "",
+			"remark": "参与莜莜（缦缦妈）发起的竞猜（未猜中）"
+		}, {
+			"player_id": 3103399,
+			"message_id": 1612625107899995,
+			"created_at": "2020-07-23 10:29:13",
+			"lucky": "5.00",
+			"record_id": "",
+			"remark": "每日任务奖励"
+		}, {
+			"player_id": 3103399,
+			"message_id": 1612625107823998,
+			"created_at": "2020-07-23 10:29:09",
+			"lucky": "5.00",
+			"record_id": "",
+			"remark": "累计签到1天"
+		}, {
+			"player_id": 3103399,
+			"message_id": 1612625103244971,
+			"created_at": "2020-07-23 10:16:47",
+			"lucky": "1.00",
+			"record_id": "",
+			"remark": "参与KK.发起的竞猜（未猜中）"
+		}],
+		"config": {
+			"my_vote_start": 3,
+			"my_vote_success": 5,
+			"my_vote_fail": 1,
+			"other_vote_success": 5,
+			"other_vote_fail": 1,
+			"vote_max_count": 10
+		}
+	}
+}
